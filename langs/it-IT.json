@@ -13,13 +13,13 @@
   "HOME": "Mega Hack",
   "HOME/LANGUAGE": "Lingua: ",
   "HOME/SEARCH": "Cerca: ",
-  "BYPASS": "Bypass",                                                                                                                                <!<!<!<!<!<!<!<!<!<
+  "BYPASS": "Sblocco",
   "BYPASS/HACK_MAIN_LEVELS": "Livelli Principali",
   "BYPASS/HACK_MAIN_LEVELS/TIP": "Sblocca i Livelli Principali di Difficoltà Demone",
   "BYPASS/HACK_MUSIC_UNLOCKER": "Musica Personalizzata",
-  "BYPASS/HACK_MUSIC_UNLOCKER/TIP": "",                                                                                                                               <<<<<<<<<<<<<<<<<<
-  "BYPASS/HACK_SLIDER_LIMIT": "",                                                                                                                               <<<<<<<<<<<<<<<<<<
-  "BYPASS/HACK_SLIDER_LIMIT/TIP": "",                                                                                                                           <<<<<<<<<<<<<<<<<<
+  "BYPASS/HACK_MUSIC_UNLOCKER/TIP": "Abilita la Musica Personalizzata nel Menù Principale e in Modalità Pratica",
+  "BYPASS/HACK_SLIDER_LIMIT": "Barre Scorrevoli Illimitate",
+  "BYPASS/HACK_SLIDER_LIMIT/TIP": "Abilita lo scorrimento infinito delle Barre Scorrevoli (Esempio: la Barra del Volume)",
   "BYPASS/HACK_TEXT_LENGTH": "Lunghezza Testo",
   "BYPASS/HACK_TEXT_LENGTH/TIP": "Toglie il Limite dei caretteri che possono essere nelle Caselle Testo, e Abilita i caratteri non alfanumerici",
   "BYPASS/HACK_TREASURE_ROOM": "Stanza dei Tesori",
@@ -41,8 +41,8 @@
   "COSMETIC/HACK_HIDE_PLAYER/TIP": "Nasconde il Giocatore",
   "COSMETIC/HACK_NO_CAMERA": "No Movimento Camera",
   "COSMETIC/HACK_NO_CAMERA/TIP": "Disabilita le Trigger che muovono la Camera del livello",
-  "COSMETIC/HACK_NO_CAMERA_ZOOM": "",                                                                                                                               <<<<<<<<<<<<<<<<<<
-  "COSMETIC/HACK_NO_CAMERA_ZOOM/TIP": "",                                                                                                                           <<<<<<<<<<<<<<<<<<
+  "COSMETIC/HACK_NO_CAMERA_ZOOM": "No Camera Zoom",
+  "COSMETIC/HACK_NO_CAMERA_ZOOM/TIP": "Disabilita le Trigger che impostano lo Zoom della Camera",
   "COSMETIC/HACK_NO_DEATH_EFFECT": "",                                                                                                                               <<<<<<<<<<<<<<<<<<
   "COSMETIC/HACK_NO_DEATH_EFFECT/TIP": "",                                                                                                                           <<<<<<<<<<<<<<<<<<
   "COSMETIC/HACK_NO_DO_NOT_FLIP": "",                                                                                                                               <<<<<<<<<<<<<<<<<<
@@ -69,8 +69,8 @@
   "COSMETIC/HACK_NO_WAVE_TRAIL_BEHIND/TIP": "",                                                                                                                 <<<<<<<<<<<<<<<<<<
   "COSMETIC/HACK_SOLID_WAVE_TRAIL": "",                                                                                                                               <<<<<<<<<<<<<<<<<<
   "COSMETIC/HACK_SOLID_WAVE_TRAIL/TIP": "",                                                                                                                           <<<<<<<<<<<<<<<<<<
-  "COSMETIC/HACK_STOP_TRIGGERS_ON_DEATH": "",                                                                                                                               <<<<<<<<<<<<<<<<<<
-  "COSMETIC/HACK_STOP_TRIGGERS_ON_DEATH/TIP": "",                                                                                                                           <<<<<<<<<<<<<<<<<<
+  "COSMETIC/HACK_STOP_TRIGGERS_ON_DEATH": "Ferma i Trigger alla Morte",
+  "COSMETIC/HACK_STOP_TRIGGERS_ON_DEATH/TIP": "Ferma i movimenti e le rotazioni dai Triggers alla morte per vedere come sei morto",
   "COSMETIC/HACK_TRAIL_CUTTING": "",                                                                                                                               <<<<<<<<<<<<<<<<<<
   "COSMETIC/HACK_TRAIL_CUTTING/TIP": "",                                                                                                                           <<<<<<<<<<<<<<<<<<
   "COSMETIC/HACK_WAVE_TRAIL_FIX": "",                                                                                                                           <<<<<<<<<<<<<<<<<<
@@ -79,8 +79,8 @@
   "COSMETIC/HACK_WAVE_TRAIL_ON_DEATH/TIP": "",                                                                                                                           <<<<<<<<<<<<<<<<<<
   "COSMETIC/WAVE_PULSE_SIZE/DROPDOWN/SIZE": "",                                                                                                                               <<<<<<<<<<<<<<<<<<
   "COSMETIC/WAVE_PULSE_SIZE/DROPDOWN/SIZE/SUF": "",                                                                                                                           <<<<<<<<<<<<<<<<<<
-  "COSMETIC/WAVE_PULSE_SIZE/HACK_WAVE_PULSE_SIZE": "",                                                                                                                               <<<<<<<<<<<<<<<<<<
-  "COSMETIC/WAVE_PULSE_SIZE/HACK_WAVE_PULSE_SIZE/TIP": "",                                                                                                                           <<<<<<<<<<<<<<<<<<
+  "COSMETIC/WAVE_PULSE_SIZE/HACK_WAVE_PULSE_SIZE": "",                                                                                                                        <<<<<<<<<<<<<<<<<<
+  "COSMETIC/WAVE_PULSE_SIZE/HACK_WAVE_PULSE_SIZE/TIP": "",                                                                                                                    <<<<<<<<<<<<<<<<<<
   "CREATOR": "Creatore",
   "CREATOR/HACK_ACCURATE_SAVE": "Salvataggio Preciso",
   "CREATOR/HACK_ACCURATE_SAVE/TIP": "Le Posizioni degli oggetti sono salvati più precisamente",
@@ -124,7 +124,7 @@
   "LEVEL/AUTO_DEAFEN/DROPDOWN/UNDEAFEN_ON_PAUSE": "Riattiva in Pausa",
   "LEVEL/AUTO_DEAFEN/HACK_AUTO_DEAFEN": "Silenziamento Audio (Discord)",
   "LEVEL/AUTO_DEAFEN/HACK_AUTO_DEAFEN/TIP": "Silenzia l'Audio di una Chiamata su Discord dopo un certo punto del livello",
-  "LEVEL/AUTO_MUSIC_SYNC/DROPDOWN/NO_LEGACY_SYNC": "",                                                                                                                               <<<<<<<<<<<<<<<<<<
+  "LEVEL/AUTO_MUSIC_SYNC/DROPDOWN/NO_LEGACY_SYNC": "Sync del 2.2",
   "LEVEL/AUTO_MUSIC_SYNC/DROPDOWN/THRESHOLD": "Soglia (ms):",
   "LEVEL/AUTO_MUSIC_SYNC/DROPDOWN/THRESHOLD/PRE": "Soglia: ",
   "LEVEL/AUTO_MUSIC_SYNC/DROPDOWN/THRESHOLD/SUF": "ms",
@@ -143,16 +143,16 @@
   "LEVEL/FRAME_STEPPER/DROPDOWN/STEP/PRE": "",                                                                                                                               <<<<<<<<<<<<<<<<<<
   "LEVEL/FRAME_STEPPER/HACK_FRAME_STEPPER": "",                                                                                                                              <<<<<<<<<<<<<<<<<<
   "LEVEL/FRAME_STEPPER/HACK_FRAME_STEPPER/TIP": "",                                                                                                                          <<<<<<<<<<<<<<<<<<
-  "LEVEL/HACK_0_PRACTICE_COMPLETE": "",                                                                                                                                             <<<<<<<<<<<<<<<<<<
-  "LEVEL/HACK_0_PRACTICE_COMPLETE/TIP": "",                                                                                                                                         <<<<<<<<<<<<<<<<<< 
+  "LEVEL/HACK_0_PRACTICE_COMPLETE": "Completamento in Modalità Pratica da 0%",
+  "LEVEL/HACK_0_PRACTICE_COMPLETE/TIP": "Completa un livello come in Modalità Normale se si completa in un tentativo da 0.00% in Modalità Pratica",
   "LEVEL/HACK_ALL_MODES_PLATFORMER": "Platformer in Qualsiasi Gamemode",
   "LEVEL/HACK_ALL_MODES_PLATFORMER/TIP": "Abilità la Modalità Platformer in qualsiasi gamemode (Inclusa la Wave e lo Swing)",
   "LEVEL/HACK_AUTO_SONG_DOWNLOAD": "Scaricamento Automatico: Canzone",
   "LEVEL/HACK_AUTO_SONG_DOWNLOAD/TIP": "Scarica automaticamente le canzoni di un livello quando apri la sua pagina",
   "LEVEL/HACK_CHECKPOINT_LIMIT_BYPASS": "Ignora il Limite Checkpoint",
   "LEVEL/HACK_CHECKPOINT_LIMIT_BYPASS/TIP": "Ignora il Limite dei 50 Checkpoint in Modalità Pratica",
-  "LEVEL/HACK_COLLECT_COINS_IN_PRACTICE": "",                                                                                                                                     <<<<<<<<<<<<<<<<<<
-  "LEVEL/HACK_COLLECT_COINS_IN_PRACTICE/TIP": "",                                                                                                                                 <<<<<<<<<<<<<<<<<<
+  "LEVEL/HACK_COLLECT_COINS_IN_PRACTICE": "Colleziona Monete in Modalità Pratica",
+  "LEVEL/HACK_COLLECT_COINS_IN_PRACTICE/TIP": "Abilita la Collezione delle Monete in Modalità Pratica (Fatto da WEGFan)",
   "LEVEL/HACK_CONFIRM_FULL_RESET": "",                                                                                                                                            <<<<<<<<<<<<<<<<<<
   "LEVEL/HACK_CONFIRM_FULL_RESET/TIP": "",                                                                                                                                        <<<<<<<<<<<<<<<<<<
   "LEVEL/HACK_CONFIRM_NORMAL": "Conferma: Modalità Normale",
@@ -232,7 +232,7 @@
   "LEVEL/SHOW_HITBOXES_TRAIL/DROPDOWN/UNCAPPED_EDITOR_LENGTH": "",                                                                                                                     <<<<<<<<<<<<<<<<<<
   "LEVEL/SHOW_HITBOXES_TRAIL/HACK_SHOW_HITBOXES_TRAIL": "",                                                                                                                            <<<<<<<<<<<<<<<<<<
   "LEVEL/SHOW_HITBOXES_TRAIL/HACK_SHOW_HITBOXES_TRAIL/TIP": "",                                                                                                                        <<<<<<<<<<<<<<<<<<
-  "LEVEL/SMART_STARTPOS/DROPDOWN/LEGACY_CALCULATION": "",                                                                                                                              <<<<<<<<<<<<<<<<<<
+  "LEVEL/SMART_STARTPOS/DROPDOWN/LEGACY_CALCULATION": "Calcolo 2.1 (Legacy)",
   "LEVEL/SMART_STARTPOS/HACK_SMART_STARTPOS": "StartPos Intelligente",
   "LEVEL/SMART_STARTPOS/HACK_SMART_STARTPOS/TIP": "Imposta la gamemode, la velocità, la grandezza (del giocatore) e lo spazio per uno StartPos in automatico",
   "LEVEL/STARTPOS_SWITCHER/DROPDOWN/HIDE_INTERFACE": "Nascondi Interfaccia",
@@ -244,8 +244,8 @@
   "LEVEL/STARTPOS_SWITCHER/HACK_STARTPOS_SWITCHER": "Cambio StartPos",
   "LEVEL/STARTPOS_SWITCHER/HACK_STARTPOS_SWITCHER/TIP": "Rende possibile il cambio tra vari StartPos in un unico livello",
   "UNIVERSAL": "Universale",
-  "UNIVERSAL/HACK_ALLOW_LOW_VOLUME": "",                                                                                                                                                <<<<<<<<<<<<<<<<<<
-  "UNIVERSAL/HACK_ALLOW_LOW_VOLUME/TIP": "",                                                                                                                                            <<<<<<<<<<<<<<<<<<
+  "UNIVERSAL/HACK_ALLOW_LOW_VOLUME": "Abilita il Volume Basso",
+  "UNIVERSAL/HACK_ALLOW_LOW_VOLUME/TIP": "Abilita l'impostazione del volume dal 0% al 3% (Senza, un volume tra 0% e 3% sarebbe sempre 0%)",
   "UNIVERSAL/HACK_AUTO_SAFE_MODE": "Modalità Sicura Automatica",
   "UNIVERSAL/HACK_AUTO_SAFE_MODE/TIP": "Attiva la Modalità Sicura in automatico quando i cheat sono abilitati, e la disattiva quando i cheat sono disabilitati",
   "UNIVERSAL/HACK_FAST_CHESTS": "Casse Veloci",
@@ -275,5 +275,5 @@
 }
 
 {
-  "_comment": "The '<<<<<<<<<' in the end of the lines are signs to what translations are missing. Fork made by RealMuffinCat <3"
+  "_comment": "The '<<<<<<<<<' in the end of the lines are signs to what translations are missing. Fork made by @RealMuffinCat <3"
 }
