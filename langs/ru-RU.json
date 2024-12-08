@@ -70,7 +70,7 @@
   "COSMETIC/HACK_SOLID_WAVE_TRAIL": "Сплошной трейл вейва",
   "COSMETIC/HACK_SOLID_WAVE_TRAIL/TIP": "Отключает смешивание цветов у трейла на вейве, как при использовании белого и черного цветов",
   "COSMETIC/HACK_STOP_TRIGGERS_ON_DEATH": "Откл. триггеры после смерти",
-  "COSMETIC/HACK_STOP_TRIGGERS_ON_DEATH/TIP": "Отключает триггеры Move и Rotate после смерти, так Вы можете посмотреть, что Вс убило",
+  "COSMETIC/HACK_STOP_TRIGGERS_ON_DEATH/TIP": "Отключает триггеры Move и Rotate после смерти, так Вы можете посмотреть, что Вас убило",
   "COSMETIC/HACK_TRAIL_CUTTING": "Разрыв трейла",
   "COSMETIC/HACK_TRAIL_CUTTING/TIP": "Возвращает баг с разрывом трейла на высоких ФПС",
   "COSMETIC/HACK_WAVE_TRAIL_FIX": "Фикс трейла вейва",
