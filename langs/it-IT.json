@@ -13,68 +13,68 @@
   "HOME": "Mega Hack",
   "HOME/LANGUAGE": "Lingua: ",
   "HOME/SEARCH": "Cerca: ",
-  "BYPASS": "",
-  "BYPASS/HACK_MAIN_LEVELS": "",
-  "BYPASS/HACK_MAIN_LEVELS/TIP": "",
-  "BYPASS/HACK_MUSIC_UNLOCKER": "",
-  "BYPASS/HACK_MUSIC_UNLOCKER/TIP": "",
-  "BYPASS/HACK_SLIDER_LIMIT": "",
-  "BYPASS/HACK_SLIDER_LIMIT/TIP": "",
-  "BYPASS/HACK_TEXT_LENGTH": "",
-  "BYPASS/HACK_TEXT_LENGTH/TIP": "",
-  "BYPASS/HACK_TREASURE_ROOM": "",
-  "BYPASS/HACK_TREASURE_ROOM/TIP": "",
-  "BYPASS/HACK_UNLOCK_ICONS": "",
-  "BYPASS/HACK_UNLOCK_ICONS/TIP": "",
-  "BYPASS/HACK_UNLOCK_SHOPS": "",
-  "BYPASS/HACK_UNLOCK_SHOPS/TIP": "",
-  "BYPASS/HACK_UNLOCK_VAULTS": "",
-  "BYPASS/HACK_UNLOCK_VAULTS/TIP": "",
-  "COSMETIC": "",
-  "COSMETIC/HACK_CLASSIC_PARTICLES": "",
-  "COSMETIC/HACK_CLASSIC_PARTICLES/TIP": "",
-  "COSMETIC/HACK_HIDE_PAUSE_BUTTON": "",
-  "COSMETIC/HACK_HIDE_PAUSE_BUTTON/TIP": "",
-  "COSMETIC/HACK_HIDE_PAUSE_MENU": "",
-  "COSMETIC/HACK_HIDE_PAUSE_MENU/TIP": "",
-  "COSMETIC/HACK_HIDE_PLAYER": "",
-  "COSMETIC/HACK_HIDE_PLAYER/TIP": "",
-  "COSMETIC/HACK_NO_CAMERA": "",
-  "COSMETIC/HACK_NO_CAMERA/TIP": "",
-  "COSMETIC/HACK_NO_CAMERA_ZOOM": "",
-  "COSMETIC/HACK_NO_CAMERA_ZOOM/TIP": "",
-  "COSMETIC/HACK_NO_DEATH_EFFECT": "",
-  "COSMETIC/HACK_NO_DEATH_EFFECT/TIP": "",
-  "COSMETIC/HACK_NO_DO_NOT_FLIP": "",
-  "COSMETIC/HACK_NO_DO_NOT_FLIP/TIP": "",
-  "COSMETIC/HACK_NO_PARTICLES": "",
-  "COSMETIC/HACK_NO_PARTICLES/TIP": "",
-  "COSMETIC/HACK_NO_PORTAL_LIGHTNING": "",
-  "COSMETIC/HACK_NO_PORTAL_LIGHTNING/TIP": "",
-  "COSMETIC/HACK_NO_PULSE": "",
-  "COSMETIC/HACK_NO_PULSE/TIP": "",
-  "COSMETIC/HACK_NO_RESPAWN_FLASH": "",
-  "COSMETIC/HACK_NO_RESPAWN_FLASH/TIP": "",
-  "COSMETIC/HACK_NO_SHADERS": "",
-  "COSMETIC/HACK_NO_SHADERS/TIP": "",
-  "COSMETIC/HACK_NO_SHAKE": "",
-  "COSMETIC/HACK_NO_SHAKE/TIP": "",
-  "COSMETIC/HACK_NO_TRAIL": "",
-  "COSMETIC/HACK_NO_TRAIL/TIP": "",
-  "COSMETIC/HACK_NO_WAVE_PULSE": "",
-  "COSMETIC/HACK_NO_WAVE_PULSE/TIP": "",
-  "COSMETIC/HACK_NO_WAVE_TRAIL": "",
-  "COSMETIC/HACK_NO_WAVE_TRAIL/TIP": "",
-  "COSMETIC/HACK_NO_WAVE_TRAIL_BEHIND": "",
-  "COSMETIC/HACK_NO_WAVE_TRAIL_BEHIND/TIP": "",
-  "COSMETIC/HACK_SOLID_WAVE_TRAIL": "",
-  "COSMETIC/HACK_SOLID_WAVE_TRAIL/TIP": "",
-  "COSMETIC/HACK_STOP_TRIGGERS_ON_DEATH": "",
-  "COSMETIC/HACK_STOP_TRIGGERS_ON_DEATH/TIP": "",
-  "COSMETIC/HACK_TRAIL_CUTTING": "",
-  "COSMETIC/HACK_TRAIL_CUTTING/TIP": "",
-  "COSMETIC/HACK_WAVE_TRAIL_FIX": "",
-  "COSMETIC/HACK_WAVE_TRAIL_FIX/TIP": "",
+  "BYPASS": "Bypass",                                                                                                                                <!<!<!<!<!<!<!<!<!<
+  "BYPASS/HACK_MAIN_LEVELS": "Livelli Principali",
+  "BYPASS/HACK_MAIN_LEVELS/TIP": "Sblocca i Livelli Principali di Difficoltà Demone",
+  "BYPASS/HACK_MUSIC_UNLOCKER": "Musica Personalizzata",
+  "BYPASS/HACK_MUSIC_UNLOCKER/TIP": "",                                                                                                                               <<<<<<<<<<<<<<<<<<
+  "BYPASS/HACK_SLIDER_LIMIT": "",                                                                                                                               <<<<<<<<<<<<<<<<<<
+  "BYPASS/HACK_SLIDER_LIMIT/TIP": "",                                                                                                                           <<<<<<<<<<<<<<<<<<
+  "BYPASS/HACK_TEXT_LENGTH": "Lunghezza Testo",
+  "BYPASS/HACK_TEXT_LENGTH/TIP": "Toglie il Limite dei caretteri che possono essere nelle Caselle Testo, e Abilita i caratteri non alfanumerici",
+  "BYPASS/HACK_TREASURE_ROOM": "Stanza dei Tesori",
+  "BYPASS/HACK_TREASURE_ROOM/TIP": "Sblocca la Stanza dei Tesori",
+  "BYPASS/HACK_UNLOCK_ICONS": "Sblocca Icone",
+  "BYPASS/HACK_UNLOCK_ICONS/TIP": "Sblocca tutte le Icone",
+  "BYPASS/HACK_UNLOCK_SHOPS": "Sblocca Negozi",
+  "BYPASS/HACK_UNLOCK_SHOPS/TIP": "Sblocca tutti i Negozi",
+  "BYPASS/HACK_UNLOCK_VAULTS": "",                                                                                                                               <<<<<<<<<<<<<<<<<<
+  "BYPASS/HACK_UNLOCK_VAULTS/TIP": "",                                                                                                                           <<<<<<<<<<<<<<<<<<
+  "COSMETIC": "Estetica",
+  "COSMETIC/HACK_CLASSIC_PARTICLES": "Particelle Classiche",
+  "COSMETIC/HACK_CLASSIC_PARTICLES/TIP": "Imposta le Mini Particelle Classiche che seguono il giocatore",
+  "COSMETIC/HACK_HIDE_PAUSE_BUTTON": "Nascondi: Pulsante Pausa",
+  "COSMETIC/HACK_HIDE_PAUSE_BUTTON/TIP": "Nasconde il Pulsante Pausa nel livello",
+  "COSMETIC/HACK_HIDE_PAUSE_MENU": "Nascondi: Menù Pausa",
+  "COSMETIC/HACK_HIDE_PAUSE_MENU/TIP": "Nasconde il Menù Pausa (Utile per prendere screenshot del livello)",
+  "COSMETIC/HACK_HIDE_PLAYER": "Nascondi: Giocatore",
+  "COSMETIC/HACK_HIDE_PLAYER/TIP": "Nasconde il Giocatore",
+  "COSMETIC/HACK_NO_CAMERA": "No Movimento Camera",
+  "COSMETIC/HACK_NO_CAMERA/TIP": "Disabilita le Trigger che muovono la Camera del livello",
+  "COSMETIC/HACK_NO_CAMERA_ZOOM": "",                                                                                                                               <<<<<<<<<<<<<<<<<<
+  "COSMETIC/HACK_NO_CAMERA_ZOOM/TIP": "",                                                                                                                           <<<<<<<<<<<<<<<<<<
+  "COSMETIC/HACK_NO_DEATH_EFFECT": "",                                                                                                                               <<<<<<<<<<<<<<<<<<
+  "COSMETIC/HACK_NO_DEATH_EFFECT/TIP": "",                                                                                                                           <<<<<<<<<<<<<<<<<<
+  "COSMETIC/HACK_NO_DO_NOT_FLIP": "",                                                                                                                               <<<<<<<<<<<<<<<<<<
+  "COSMETIC/HACK_NO_DO_NOT_FLIP/TIP": "",                                                                                                                           <<<<<<<<<<<<<<<<<<
+  "COSMETIC/HACK_NO_PARTICLES": "No Particelle",
+  "COSMETIC/HACK_NO_PARTICLES/TIP": "Disabilita le Particelle (Per la maggior parte)",
+  "COSMETIC/HACK_NO_PORTAL_LIGHTNING": "",                                                                                                                               <<<<<<<<<<<<<<<<<<
+  "COSMETIC/HACK_NO_PORTAL_LIGHTNING/TIP": "",                                                                                                                           <<<<<<<<<<<<<<<<<<
+  "COSMETIC/HACK_NO_PULSE": "",                                                                                                                               <<<<<<<<<<<<<<<<<<
+  "COSMETIC/HACK_NO_PULSE/TIP": "",                                                                                                                           <<<<<<<<<<<<<<<<<<
+  "COSMETIC/HACK_NO_RESPAWN_FLASH": "",                                                                                                                               <<<<<<<<<<<<<<<<<<
+  "COSMETIC/HACK_NO_RESPAWN_FLASH/TIP": "",                                                                                                                           <<<<<<<<<<<<<<<<<<
+  "COSMETIC/HACK_NO_SHADERS": "No Shader",
+  "COSMETIC/HACK_NO_SHADERS/TIP": "Disabilita le Shader nei livelli",
+  "COSMETIC/HACK_NO_SHAKE": "",                                                                                                                               <<<<<<<<<<<<<<<<<<
+  "COSMETIC/HACK_NO_SHAKE/TIP": "",                                                                                                                           <<<<<<<<<<<<<<<<<<
+  "COSMETIC/HACK_NO_TRAIL": "",                                                                                                                                      <<<<<<<<<<<<<<<<<<
+  "COSMETIC/HACK_NO_TRAIL/TIP": "",                                                                                                                                  <<<<<<<<<<<<<<<<<<
+  "COSMETIC/HACK_NO_WAVE_PULSE": "",                                                                                                                               <<<<<<<<<<<<<<<<<<
+  "COSMETIC/HACK_NO_WAVE_PULSE/TIP": "",                                                                                                                           <<<<<<<<<<<<<<<<<<
+  "COSMETIC/HACK_NO_WAVE_TRAIL": "",                                                                                                                  <<<<<<<<<<<<<<<<<<
+  "COSMETIC/HACK_NO_WAVE_TRAIL/TIP": "",                                                                                                              <<<<<<<<<<<<<<<<<<
+  "COSMETIC/HACK_NO_WAVE_TRAIL_BEHIND": "",                                                                                                                     <<<<<<<<<<<<<<<<<<
+  "COSMETIC/HACK_NO_WAVE_TRAIL_BEHIND/TIP": "",                                                                                                                 <<<<<<<<<<<<<<<<<<
+  "COSMETIC/HACK_SOLID_WAVE_TRAIL": "",                                                                                                                               <<<<<<<<<<<<<<<<<<
+  "COSMETIC/HACK_SOLID_WAVE_TRAIL/TIP": "",                                                                                                                           <<<<<<<<<<<<<<<<<<
+  "COSMETIC/HACK_STOP_TRIGGERS_ON_DEATH": "",                                                                                                                               <<<<<<<<<<<<<<<<<<
+  "COSMETIC/HACK_STOP_TRIGGERS_ON_DEATH/TIP": "",                                                                                                                           <<<<<<<<<<<<<<<<<<
+  "COSMETIC/HACK_TRAIL_CUTTING": "",                                                                                                                               <<<<<<<<<<<<<<<<<<
+  "COSMETIC/HACK_TRAIL_CUTTING/TIP": "",                                                                                                                           <<<<<<<<<<<<<<<<<<
+  "COSMETIC/HACK_WAVE_TRAIL_FIX": "",                                                                                                                           <<<<<<<<<<<<<<<<<<
+  "COSMETIC/HACK_WAVE_TRAIL_FIX/TIP": "",                                                                                                                       <<<<<<<<<<<<<<<<<<
   "COSMETIC/HACK_WAVE_TRAIL_ON_DEATH": "",
   "COSMETIC/HACK_WAVE_TRAIL_ON_DEATH/TIP": "",
   "COSMETIC/WAVE_PULSE_SIZE/DROPDOWN/SIZE": "",
@@ -135,104 +135,104 @@
   "LEVEL/AUTO_PICKUP_COINS/DROPDOWN/3": "",
   "LEVEL/AUTO_PICKUP_COINS/HACK_AUTO_PICKUP_COINS": "",
   "LEVEL/AUTO_PICKUP_COINS/HACK_AUTO_PICKUP_COINS/TIP": "",
-  "LEVEL/FRAME_STEPPER/DROPDOWN/BACK": "",
-  "LEVEL/FRAME_STEPPER/DROPDOWN/BACK/PRE": "",
-  "LEVEL/FRAME_STEPPER/DROPDOWN/PAUSE": "",
-  "LEVEL/FRAME_STEPPER/DROPDOWN/PAUSE/PRE": "",
-  "LEVEL/FRAME_STEPPER/DROPDOWN/STEP": "",
-  "LEVEL/FRAME_STEPPER/DROPDOWN/STEP/PRE": "",
-  "LEVEL/FRAME_STEPPER/HACK_FRAME_STEPPER": "",
-  "LEVEL/FRAME_STEPPER/HACK_FRAME_STEPPER/TIP": "",
-  "LEVEL/HACK_0_PRACTICE_COMPLETE": "",
-  "LEVEL/HACK_0_PRACTICE_COMPLETE/TIP": "",
-  "LEVEL/HACK_ALL_MODES_PLATFORMER": "",
-  "LEVEL/HACK_ALL_MODES_PLATFORMER/TIP": "",
-  "LEVEL/HACK_AUTO_SONG_DOWNLOAD": "",
-  "LEVEL/HACK_AUTO_SONG_DOWNLOAD/TIP": "",
-  "LEVEL/HACK_CHECKPOINT_LIMIT_BYPASS": "",
-  "LEVEL/HACK_CHECKPOINT_LIMIT_BYPASS/TIP": "",
-  "LEVEL/HACK_COLLECT_COINS_IN_PRACTICE": "",
-  "LEVEL/HACK_COLLECT_COINS_IN_PRACTICE/TIP": "",
-  "LEVEL/HACK_CONFIRM_FULL_RESET": "",
-  "LEVEL/HACK_CONFIRM_FULL_RESET/TIP": "",
-  "LEVEL/HACK_CONFIRM_NORMAL": "",
-  "LEVEL/HACK_CONFIRM_NORMAL/TIP": "",
-  "LEVEL/HACK_CONFIRM_PRACTICE": "",
-  "LEVEL/HACK_CONFIRM_PRACTICE/TIP": "",
-  "LEVEL/HACK_CONFIRM_RESET": "",
-  "LEVEL/HACK_CONFIRM_RESET/TIP": "",
-  "LEVEL/HACK_FORCE_PLATFORMER": "",
-  "LEVEL/HACK_FORCE_PLATFORMER/TIP": "",
-  "LEVEL/HACK_INSTANT_COMPLETE": "",
-  "LEVEL/HACK_INSTANT_COMPLETE/TIP": "",
-  "LEVEL/HACK_PRACTICE_BUG_FIX": "",
-  "LEVEL/HACK_PRACTICE_BUG_FIX/TIP": "",
-  "LEVEL/HACK_PRACTICE_MUSIC": "",
-  "LEVEL/HACK_PRACTICE_MUSIC/TIP": "",
-  "LEVEL/HACK_REPLAY_LAST_CHECKPOINT": "",
-  "LEVEL/HACK_REPLAY_LAST_CHECKPOINT/TIP": "",
-  "LEVEL/HACK_SHOW_HITBOXES_ON_DEATH": "",
-  "LEVEL/HACK_SHOW_HITBOXES_ON_DEATH/TIP": "",
-  "LEVEL/HACK_SHOW_LAYOUT": "",
-  "LEVEL/HACK_SHOW_LAYOUT/TIP": "",
-  "LEVEL/HACK_SHOW_TRIGGERS": "",
-  "LEVEL/HACK_SHOW_TRIGGERS/TIP": "",
-  "LEVEL/HACK_STARTPOS_RESET_CAMERA": "",
-  "LEVEL/HACK_STARTPOS_RESET_CAMERA/TIP": "",
-  "LEVEL/JUMPSCARE/DROPDOWN/ONLY_FROM_0": "",
-  "LEVEL/JUMPSCARE/DROPDOWN/PERCENTAGE": "",
-  "LEVEL/JUMPSCARE/DROPDOWN/PERCENTAGE/PRE": "",
-  "LEVEL/JUMPSCARE/DROPDOWN/PERCENTAGE/SUF": "",
-  "LEVEL/JUMPSCARE/DROPDOWN/PROBABILITY": "",
-  "LEVEL/JUMPSCARE/DROPDOWN/PROBABILITY/PRE": "",
-  "LEVEL/JUMPSCARE/DROPDOWN/PROBABILITY/SUF": "",
-  "LEVEL/JUMPSCARE/DROPDOWN/TIME_THRESHOLD": "",
-  "LEVEL/JUMPSCARE/DROPDOWN/TIME_THRESHOLD/PRE": "",
-  "LEVEL/JUMPSCARE/DROPDOWN/TIME_THRESHOLD/SUF": "",
-  "LEVEL/JUMPSCARE/HACK_JUMPSCARE": "",
-  "LEVEL/JUMPSCARE/HACK_JUMPSCARE/TIP": "",
-  "LEVEL/NOCLIP/DROPDOWN/PLAYER_1": "",
-  "LEVEL/NOCLIP/DROPDOWN/PLAYER_2": "",
-  "LEVEL/NOCLIP/DROPDOWN/SAFE_MODE": "",
-  "LEVEL/NOCLIP/DROPDOWN/TINT/CHECKBOX": "",
-  "LEVEL/NOCLIP/HACK_NOCLIP": "",
-  "LEVEL/NOCLIP/HACK_NOCLIP/TIP": "",
-  "LEVEL/NOCLIP_LIMITS/DROPDOWN/ACCURACY_LIMIT": "",
-  "LEVEL/NOCLIP_LIMITS/DROPDOWN/ACCURACY_LIMIT/SUF": "",
-  "LEVEL/NOCLIP_LIMITS/DROPDOWN/ACCURACY_LIMIT_ON": "",
-  "LEVEL/NOCLIP_LIMITS/DROPDOWN/DEATHS_LIMIT": "",
-  "LEVEL/NOCLIP_LIMITS/DROPDOWN/DEATHS_LIMIT/SUF": "",
-  "LEVEL/NOCLIP_LIMITS/DROPDOWN/DEATH_LIMIT_ON": "",
-  "LEVEL/NOCLIP_LIMITS/HACK_NOCLIP_LIMITS": "",
-  "LEVEL/NOCLIP_LIMITS/HACK_NOCLIP_LIMITS/TIP": "",
-  "LEVEL/RANDOM_SEED/DROPDOWN/SEED": "",
-  "LEVEL/RANDOM_SEED/DROPDOWN/SEED/PRE": "",
-  "LEVEL/RANDOM_SEED/HACK_RANDOM_SEED": "",
-  "LEVEL/RANDOM_SEED/HACK_RANDOM_SEED/TIP": "",
-  "LEVEL/RESPAWN_TIME/DROPDOWN/SPINNER": "",
-  "LEVEL/RESPAWN_TIME/DROPDOWN/SPINNER/SUF": "",
-  "LEVEL/RESPAWN_TIME/HACK_RESPAWN_TIME": "",
-  "LEVEL/RESPAWN_TIME/HACK_RESPAWN_TIME/TIP": "",
+  "LEVEL/FRAME_STEPPER/DROPDOWN/BACK": "",                                                                                                                                   <<<<<<<<<<<<<<<<<<
+  "LEVEL/FRAME_STEPPER/DROPDOWN/BACK/PRE": "",                                                                                                                               <<<<<<<<<<<<<<<<<<
+  "LEVEL/FRAME_STEPPER/DROPDOWN/PAUSE": "",                                                                                                                                  <<<<<<<<<<<<<<<<<<
+  "LEVEL/FRAME_STEPPER/DROPDOWN/PAUSE/PRE": "",                                                                                                                              <<<<<<<<<<<<<<<<<<
+  "LEVEL/FRAME_STEPPER/DROPDOWN/STEP": "",                                                                                                                                   <<<<<<<<<<<<<<<<<<
+  "LEVEL/FRAME_STEPPER/DROPDOWN/STEP/PRE": "",                                                                                                                               <<<<<<<<<<<<<<<<<<
+  "LEVEL/FRAME_STEPPER/HACK_FRAME_STEPPER": "",                                                                                                                              <<<<<<<<<<<<<<<<<<
+  "LEVEL/FRAME_STEPPER/HACK_FRAME_STEPPER/TIP": "",                                                                                                                          <<<<<<<<<<<<<<<<<<
+  "LEVEL/HACK_0_PRACTICE_COMPLETE": "",                                                                                                                                             <<<<<<<<<<<<<<<<<<
+  "LEVEL/HACK_0_PRACTICE_COMPLETE/TIP": "",                                                                                                                                         <<<<<<<<<<<<<<<<<< 
+  "LEVEL/HACK_ALL_MODES_PLATFORMER": "Platformer in Qualsiasi Gamemode",
+  "LEVEL/HACK_ALL_MODES_PLATFORMER/TIP": "Abilità la Modalità Platformer in qualsiasi gamemode (Inclusa la Wave e lo Swing)",
+  "LEVEL/HACK_AUTO_SONG_DOWNLOAD": "Scaricamento Automatico: Canzone",
+  "LEVEL/HACK_AUTO_SONG_DOWNLOAD/TIP": "Scarica automaticamente le canzoni di un livello quando apri la sua pagina",
+  "LEVEL/HACK_CHECKPOINT_LIMIT_BYPASS": "Ignora il Limite Checkpoint",
+  "LEVEL/HACK_CHECKPOINT_LIMIT_BYPASS/TIP": "Ignora il Limite dei 50 Checkpoint in Modalità Pratica",
+  "LEVEL/HACK_COLLECT_COINS_IN_PRACTICE": "",                                                                                                                                     <<<<<<<<<<<<<<<<<<
+  "LEVEL/HACK_COLLECT_COINS_IN_PRACTICE/TIP": "",                                                                                                                                 <<<<<<<<<<<<<<<<<<
+  "LEVEL/HACK_CONFIRM_FULL_RESET": "",                                                                                                                                            <<<<<<<<<<<<<<<<<<
+  "LEVEL/HACK_CONFIRM_FULL_RESET/TIP": "",                                                                                                                                        <<<<<<<<<<<<<<<<<<
+  "LEVEL/HACK_CONFIRM_NORMAL": "Conferma: Modalità Normale",
+  "LEVEL/HACK_CONFIRM_NORMAL/TIP": "Richiede Conferma prima di uscire dalla Modalità Pratica (Oppure, prima di usare la Modalità Normale)",
+  "LEVEL/HACK_CONFIRM_PRACTICE": "Conferma: Modalità Pratica",
+  "LEVEL/HACK_CONFIRM_PRACTICE/TIP": "Richiede Conferma prima di usare la Modalità Pratica",
+  "LEVEL/HACK_CONFIRM_RESET": "",                                                                                                                                                 <<<<<<<<<<<<<<<<<<
+  "LEVEL/HACK_CONFIRM_RESET/TIP": "",                                                                                                                                             <<<<<<<<<<<<<<<<<<
+  "LEVEL/HACK_FORCE_PLATFORMER": "Forza Modalità Platformer",
+  "LEVEL/HACK_FORCE_PLATFORMER/TIP": "Forza la Modalità Platformer in tutti i livelli",
+  "LEVEL/HACK_INSTANT_COMPLETE": "",                                                                                                                                             <<<<<<<<<<<<<<<<<<
+  "LEVEL/HACK_INSTANT_COMPLETE/TIP": "Manda il giocatore alla fine del livello, in modo che il livello si completi",
+  "LEVEL/HACK_PRACTICE_BUG_FIX": "BugFix: Modalità Pratica",
+  "LEVEL/HACK_PRACTICE_BUG_FIX/TIP": "Salva e imposta la velocità del giocatore in Modalità Pratica",
+  "LEVEL/HACK_PRACTICE_MUSIC": "Musica in Modalità Pratica",
+  "LEVEL/HACK_PRACTICE_MUSIC/TIP": "Sblocca la Musica del livello in Modalità Pratica",
+  "LEVEL/HACK_REPLAY_LAST_CHECKPOINT": "Rinasci all'Ultimo Checkpoint",
+  "LEVEL/HACK_REPLAY_LAST_CHECKPOINT/TIP": "Rinasci al tuo Ultimo Checkpoint dopo aver completato un livello in Modalità Pratica",
+  "LEVEL/HACK_SHOW_HITBOXES_ON_DEATH": "Mostra Hitbox alla Morte",
+  "LEVEL/HACK_SHOW_HITBOXES_ON_DEATH/TIP": "Mostra le Hitbox di un livello solo alla morte del giocatore",
+  "LEVEL/HACK_SHOW_LAYOUT": "Mostra Layout",
+  "LEVEL/HACK_SHOW_LAYOUT/TIP": "Rimuove la decorazione e tutti i colori in un livello (NON migliora le prestazioni)",
+  "LEVEL/HACK_SHOW_TRIGGERS": "Mostra Triggers",
+  "LEVEL/HACK_SHOW_TRIGGERS/TIP": "Mostra le Triggers in un livello (In modalità normale, non editor)",
+  "LEVEL/HACK_STARTPOS_RESET_CAMERA": "Reimpostazione Camera su StartPos",
+  "LEVEL/HACK_STARTPOS_RESET_CAMERA/TIP": "Reimposta la posizione della Camera su ogni StartPos",
+  "LEVEL/JUMPSCARE/DROPDOWN/ONLY_FROM_0": "Solo da 0%",
+  "LEVEL/JUMPSCARE/DROPDOWN/PERCENTAGE": "Percentuale:",
+  "LEVEL/JUMPSCARE/DROPDOWN/PERCENTAGE/PRE": "Percentuale: ",
+  "LEVEL/JUMPSCARE/DROPDOWN/PERCENTAGE/SUF": "%",
+  "LEVEL/JUMPSCARE/DROPDOWN/PROBABILITY": "Probabilità:",
+  "LEVEL/JUMPSCARE/DROPDOWN/PROBABILITY/PRE": "Probabilità: ",
+  "LEVEL/JUMPSCARE/DROPDOWN/PROBABILITY/SUF": "%",
+  "LEVEL/JUMPSCARE/DROPDOWN/TIME_THRESHOLD": "Soglia di tempo (s):",
+  "LEVEL/JUMPSCARE/DROPDOWN/TIME_THRESHOLD/PRE": "Tempo: ",
+  "LEVEL/JUMPSCARE/DROPDOWN/TIME_THRESHOLD/SUF": "s",
+  "LEVEL/JUMPSCARE/HACK_JUMPSCARE": "Jumpscare",
+  "LEVEL/JUMPSCARE/HACK_JUMPSCARE/TIP": "Spaventoso",
+  "LEVEL/NOCLIP/DROPDOWN/PLAYER_1": "Giocatore 1",
+  "LEVEL/NOCLIP/DROPDOWN/PLAYER_2": "Giocatore 2",
+  "LEVEL/NOCLIP/DROPDOWN/SAFE_MODE": "Modalità Sicura",
+  "LEVEL/NOCLIP/DROPDOWN/TINT/CHECKBOX": "Tinta",
+  "LEVEL/NOCLIP/HACK_NOCLIP": "Noclip",
+  "LEVEL/NOCLIP/HACK_NOCLIP/TIP": "Rende il giocatore invincibile",
+  "LEVEL/NOCLIP_LIMITS/DROPDOWN/ACCURACY_LIMIT": "Limite Precisione:",
+  "LEVEL/NOCLIP_LIMITS/DROPDOWN/ACCURACY_LIMIT/SUF": "%",
+  "LEVEL/NOCLIP_LIMITS/DROPDOWN/ACCURACY_LIMIT_ON": "Limite Precisione Attivo",
+  "LEVEL/NOCLIP_LIMITS/DROPDOWN/DEATHS_LIMIT": "Limite Morti:",
+  "LEVEL/NOCLIP_LIMITS/DROPDOWN/DEATHS_LIMIT/SUF": "Morti",
+  "LEVEL/NOCLIP_LIMITS/DROPDOWN/DEATH_LIMIT_ON": "Limite Morti Attivo",
+  "LEVEL/NOCLIP_LIMITS/HACK_NOCLIP_LIMITS": "Limitazioni Noclip",
+  "LEVEL/NOCLIP_LIMITS/HACK_NOCLIP_LIMITS/TIP": "Uccide il giocatore dopo un numero di morti o una precisione bassa (Richiede Noclip abilitato)",
+  "LEVEL/RANDOM_SEED/DROPDOWN/SEED": "Seme:",
+  "LEVEL/RANDOM_SEED/DROPDOWN/SEED/PRE": "Seme: ",
+  "LEVEL/RANDOM_SEED/HACK_RANDOM_SEED": "Seme Randomizzato",
+  "LEVEL/RANDOM_SEED/HACK_RANDOM_SEED/TIP": "Rende le Random Triggers consistenti in tutti i tentativi (incluso anche in modalità pratica)",
+  "LEVEL/RESPAWN_TIME/DROPDOWN/SPINNER": "Tempo (ms):",
+  "LEVEL/RESPAWN_TIME/DROPDOWN/SPINNER/SUF": "ms",
+  "LEVEL/RESPAWN_TIME/HACK_RESPAWN_TIME": "Tempo di Rinascita",
+  "LEVEL/RESPAWN_TIME/HACK_RESPAWN_TIME/TIP": "Cambia il tempo tra la morte e la rinascita del giocatore",
   "LEVEL/SHOW_HITBOXES/DROPDOWN/FILL": "Riempi le Hitbox",
-  "LEVEL/SHOW_HITBOXES/DROPDOWN/HAZARDS/CHECKBOX": "",
+  "LEVEL/SHOW_HITBOXES/DROPDOWN/HAZARDS/CHECKBOX": "Pericolosi",
   "LEVEL/SHOW_HITBOXES/DROPDOWN/OPACITY": "Trasparenza:",
   "LEVEL/SHOW_HITBOXES/DROPDOWN/OPACITY/PRE": "Trasparenza: ",
   "LEVEL/SHOW_HITBOXES/DROPDOWN/OPACITY/SUF": "%",
-  "LEVEL/SHOW_HITBOXES/DROPDOWN/PASSABLE/CHECKBOX": "Passabile",
+  "LEVEL/SHOW_HITBOXES/DROPDOWN/PASSABLE/CHECKBOX": "Passabili",
   "LEVEL/SHOW_HITBOXES/DROPDOWN/PLAYER": "Giocatore",
   "LEVEL/SHOW_HITBOXES/DROPDOWN/SOLIDS/CHECKBOX": "Solidi",
-  "LEVEL/SHOW_HITBOXES/DROPDOWN/SPECIALS/CHECKBOX": "Varie",
+  "LEVEL/SHOW_HITBOXES/DROPDOWN/SPECIALS/CHECKBOX": "Vari",
   "LEVEL/SHOW_HITBOXES/DROPDOWN/STROKE_SIZE": "Spessore Bordo:",
   "LEVEL/SHOW_HITBOXES/DROPDOWN/STROKE_SIZE/PRE": "Spessore Bordo: ",
   "LEVEL/SHOW_HITBOXES/HACK_SHOW_HITBOXES": "Mostra Hitbox",
   "LEVEL/SHOW_HITBOXES/HACK_SHOW_HITBOXES/TIP": "Mostra le Hitbox in un livello",
-  "LEVEL/SHOW_HITBOXES_TRAIL/DROPDOWN/MAX_DRAW": "",
-  "LEVEL/SHOW_HITBOXES_TRAIL/DROPDOWN/MAX_DRAW/PRE": "",
-  "LEVEL/SHOW_HITBOXES_TRAIL/DROPDOWN/MAX_DRAW/SUF": "",
-  "LEVEL/SHOW_HITBOXES_TRAIL/DROPDOWN/UNCAPPED_EDITOR_LENGTH": "",
-  "LEVEL/SHOW_HITBOXES_TRAIL/HACK_SHOW_HITBOXES_TRAIL": "",
-  "LEVEL/SHOW_HITBOXES_TRAIL/HACK_SHOW_HITBOXES_TRAIL/TIP": "",
-  "LEVEL/SMART_STARTPOS/DROPDOWN/LEGACY_CALCULATION": "",
+  "LEVEL/SHOW_HITBOXES_TRAIL/DROPDOWN/MAX_DRAW": "",                                                                                                                                   <<<<<<<<<<<<<<<<<<
+  "LEVEL/SHOW_HITBOXES_TRAIL/DROPDOWN/MAX_DRAW/PRE": "",                                                                                                                               <<<<<<<<<<<<<<<<<<
+  "LEVEL/SHOW_HITBOXES_TRAIL/DROPDOWN/MAX_DRAW/SUF": "",                                                                                                                               <<<<<<<<<<<<<<<<<<
+  "LEVEL/SHOW_HITBOXES_TRAIL/DROPDOWN/UNCAPPED_EDITOR_LENGTH": "",                                                                                                                     <<<<<<<<<<<<<<<<<<
+  "LEVEL/SHOW_HITBOXES_TRAIL/HACK_SHOW_HITBOXES_TRAIL": "",                                                                                                                            <<<<<<<<<<<<<<<<<<
+  "LEVEL/SHOW_HITBOXES_TRAIL/HACK_SHOW_HITBOXES_TRAIL/TIP": "",                                                                                                                        <<<<<<<<<<<<<<<<<<
+  "LEVEL/SMART_STARTPOS/DROPDOWN/LEGACY_CALCULATION": "",                                                                                                                              <<<<<<<<<<<<<<<<<<
   "LEVEL/SMART_STARTPOS/HACK_SMART_STARTPOS": "StartPos Intelligente",
   "LEVEL/SMART_STARTPOS/HACK_SMART_STARTPOS/TIP": "Imposta la gamemode, la velocità, la grandezza (del giocatore) e lo spazio per uno StartPos in automatico",
   "LEVEL/STARTPOS_SWITCHER/DROPDOWN/HIDE_INTERFACE": "Nascondi Interfaccia",
@@ -244,18 +244,18 @@
   "LEVEL/STARTPOS_SWITCHER/HACK_STARTPOS_SWITCHER": "Cambio StartPos",
   "LEVEL/STARTPOS_SWITCHER/HACK_STARTPOS_SWITCHER/TIP": "Rende possibile il cambio tra vari StartPos in un unico livello",
   "UNIVERSAL": "Universale",
-  "UNIVERSAL/HACK_ALLOW_LOW_VOLUME": "",
-  "UNIVERSAL/HACK_ALLOW_LOW_VOLUME/TIP": "",
+  "UNIVERSAL/HACK_ALLOW_LOW_VOLUME": "",                                                                                                                                                <<<<<<<<<<<<<<<<<<
+  "UNIVERSAL/HACK_ALLOW_LOW_VOLUME/TIP": "",                                                                                                                                            <<<<<<<<<<<<<<<<<<
   "UNIVERSAL/HACK_AUTO_SAFE_MODE": "Modalità Sicura Automatica",
   "UNIVERSAL/HACK_AUTO_SAFE_MODE/TIP": "Attiva la Modalità Sicura in automatico quando i cheat sono abilitati, e la disattiva quando i cheat sono disabilitati",
   "UNIVERSAL/HACK_FAST_CHESTS": "Casse Veloci",
   "UNIVERSAL/HACK_FAST_CHESTS/TIP": "Velocizza le animazioni delle casse",
   "UNIVERSAL/HACK_LOCK_CURSOR": "Blocca Cursore",
   "UNIVERSAL/HACK_LOCK_CURSOR/TIP": "Blocca il cursore sulla finestra quando in un livello",
-  "UNIVERSAL/HACK_MAIN_MENU_PLAY": "",
-  "UNIVERSAL/HACK_MAIN_MENU_PLAY/TIP": "",
+  "UNIVERSAL/HACK_MAIN_MENU_PLAY": "",                                                                                                                                                   <<<<<<<<<<<<<<<<<<
+  "UNIVERSAL/HACK_MAIN_MENU_PLAY/TIP": "",                                                                                                                                               <<<<<<<<<<<<<<<<<<
   "UNIVERSAL/HACK_NO_TRANSITION": "No Transizioni",
-  "UNIVERSAL/HACK_NO_TRANSITION/TIP": "Toglie le transizioni tra i vari menu e sul caricamento di un livello",
+  "UNIVERSAL/HACK_NO_TRANSITION/TIP": "Rimuove le transizioni tra i vari menu e sul caricamento di un livello",
   "UNIVERSAL/HACK_SAFE_MODE": "Modalità Sicura",
   "UNIVERSAL/HACK_SAFE_MODE/TIP": "Disabilita progressi e verificazioni sui livelli",
   "UNIVERSAL/HACK_SAFE_MODE_POPUP": "Allerta Modalità Sicura",
@@ -272,4 +272,8 @@
   "UNIVERSAL/THREAD_PRIORITY/DROPDOWN/COMBO/4": "Alta",
   "UNIVERSAL/THREAD_PRIORITY/HACK_THREAD_PRIORITY": "Priorità",
   "UNIVERSAL/THREAD_PRIORITY/HACK_THREAD_PRIORITY/TIP": "Imposta quanta CPU viene imposta su GD, può migliorare le prestazioni"
+}
+
+{
+  "_comment": "The '<<<<<<<<<' in the end of the lines are signs to what translations are missing. Not all missing translations were marked I had to go eat lol. Fork made by RealMuffinCat <3"
 }
