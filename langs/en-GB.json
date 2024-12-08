@@ -255,7 +255,7 @@
   "UNIVERSAL/HACK_MAIN_MENU_PLAY": "Main Menu Play",
   "UNIVERSAL/HACK_MAIN_MENU_PLAY/TIP": "Take control of gameplay in the main menu",
   "UNIVERSAL/HACK_NO_TRANSITION": "No Transition",
-  "UNIVERSAL/HACK_NO_TRANSITION/TIP": "Shorterns scene transition time to 0s",
+  "UNIVERSAL/HACK_NO_TRANSITION/TIP": "Shortens scene transition time to 0s",
   "UNIVERSAL/HACK_SAFE_MODE": "Safe Mode",
   "UNIVERSAL/HACK_SAFE_MODE/TIP": "Disables progress, completion & verification of levels",
   "UNIVERSAL/HACK_SAFE_MODE_POPUP": "Safe Mode Popup",

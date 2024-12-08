@@ -1,6 +1,6 @@
 # Mega Hack Translation Project
 
-This project aims to provide accurate translations for Mega Hack in languages other than British English. The first translations will be available in Mega Hack v8.1.0, which is in active development.
+This project aims to provide accurate translations for Mega Hack in languages other than British English. The first translations will be available in Mega Hack v8.1.0 which is in active development.
 
 ## Contributing
 
@@ -12,11 +12,23 @@ To contribute a new language, you will need to copy the [base.json](/langs/base.
 
 Regional dialects of languages are allowed too, such as en-US alongside en-GB.
 
-## Translation
+## Translation Guide
 
 Please remember that proper nouns, such as "Mega Hack" and "Geometry Dash", should not be translated.
 
-Any tags ending in `/PRE` or `/SUF` are prefixes or suffixes to input boxes respectively.
+Translations should not always be literal and instead should match common terms used by the community already. For example, do not translate "wave" if "wave" is the commonly spoken term in your language.
+
+Titles for hacks and options should be kept as short as possible so that they fit in the interface. For Latin-based languages, 20 characters is a good estimate. However, this depends on character sizes so it isn't a strict guideline.
+
+Any tags ending in `/PRE` or `/SUF` are prefixes or suffixes to input boxes respectively. Prefixes should include spaces after their colons, for where user input begins. Parent tags do not need this space as this is the placeholder text, shown when the input box is empty.
+
+```
+{
+  "EXAMPLE_INPUT": "Time (s):",
+  "EXAMPLE_INPUT/PRE": "Time: ",
+  "EXAMPLE_INPUT/SUF": "s"
+}
+```
 
 Tags ending in `/TIP` are tooltips for UI elements.
 
