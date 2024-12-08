@@ -272,3 +272,4 @@
   "UNIVERSAL/THREAD_PRIORITY/DROPDOWN/COMBO/4": "Высший",
   "UNIVERSAL/THREAD_PRIORITY/HACK_THREAD_PRIORITY": "Приоритет Потока",
   "UNIVERSAL/THREAD_PRIORITY/HACK_THREAD_PRIORITY/TIP": "Влияет на то, сколько процессорного времени получает GD, может повысить производительность"
+}
