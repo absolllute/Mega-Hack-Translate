@@ -59,24 +59,24 @@
   "COSMETIC/HACK_NO_SHADERS/TIP": "Disabilita le Shader nei livelli",
   "COSMETIC/HACK_NO_SHAKE": "",                                                                                                                               <<<<<<<<<<<<<<<<<<
   "COSMETIC/HACK_NO_SHAKE/TIP": "",                                                                                                                           <<<<<<<<<<<<<<<<<<
-  "COSMETIC/HACK_NO_TRAIL": "",                                                                                                                                      <<<<<<<<<<<<<<<<<<
-  "COSMETIC/HACK_NO_TRAIL/TIP": "",                                                                                                                                  <<<<<<<<<<<<<<<<<<
+  "COSMETIC/HACK_NO_TRAIL": "No Scia",
+  "COSMETIC/HACK_NO_TRAIL/TIP": "Disabilita la Scia del giocatore",
   "COSMETIC/HACK_NO_WAVE_PULSE": "",                                                                                                                               <<<<<<<<<<<<<<<<<<
   "COSMETIC/HACK_NO_WAVE_PULSE/TIP": "",                                                                                                                           <<<<<<<<<<<<<<<<<<
-  "COSMETIC/HACK_NO_WAVE_TRAIL": "",                                                                                                                  <<<<<<<<<<<<<<<<<<
-  "COSMETIC/HACK_NO_WAVE_TRAIL/TIP": "",                                                                                                              <<<<<<<<<<<<<<<<<<
-  "COSMETIC/HACK_NO_WAVE_TRAIL_BEHIND": "",                                                                                                                     <<<<<<<<<<<<<<<<<<
-  "COSMETIC/HACK_NO_WAVE_TRAIL_BEHIND/TIP": "",                                                                                                                 <<<<<<<<<<<<<<<<<<
-  "COSMETIC/HACK_SOLID_WAVE_TRAIL": "",                                                                                                                               <<<<<<<<<<<<<<<<<<
-  "COSMETIC/HACK_SOLID_WAVE_TRAIL/TIP": "",                                                                                                                           <<<<<<<<<<<<<<<<<<
+  "COSMETIC/HACK_NO_WAVE_TRAIL": "No Scia (Wave)",
+  "COSMETIC/HACK_NO_WAVE_TRAIL/TIP": "Disabilita la Scia della Wave (La scia predefinita non viene disabilitata)",
+  "COSMETIC/HACK_NO_WAVE_TRAIL_BEHIND": "No Scia Dietro (Wave)",
+  "COSMETIC/HACK_NO_WAVE_TRAIL_BEHIND/TIP": "Disabilita la Scia dietro la Scia della Wave, cioè quella predefinita",
+  "COSMETIC/HACK_SOLID_WAVE_TRAIL": "Scia Solida (Wave)",
+  "COSMETIC/HACK_SOLID_WAVE_TRAIL/TIP": "Disabilita la miscelazione sulla Scia della Wave, come nella Scia nera e bianca",
   "COSMETIC/HACK_STOP_TRIGGERS_ON_DEATH": "Ferma i Trigger alla Morte",
   "COSMETIC/HACK_STOP_TRIGGERS_ON_DEATH/TIP": "Ferma i movimenti e le rotazioni dai Triggers alla morte per vedere come sei morto",
-  "COSMETIC/HACK_TRAIL_CUTTING": "",                                                                                                                               <<<<<<<<<<<<<<<<<<
+  "COSMETIC/HACK_TRAIL_CUTTING": "Taglio Scia",
   "COSMETIC/HACK_TRAIL_CUTTING/TIP": "",                                                                                                                           <<<<<<<<<<<<<<<<<<
   "COSMETIC/HACK_WAVE_TRAIL_FIX": "",                                                                                                                           <<<<<<<<<<<<<<<<<<
   "COSMETIC/HACK_WAVE_TRAIL_FIX/TIP": "",                                                                                                                       <<<<<<<<<<<<<<<<<<
-  "COSMETIC/HACK_WAVE_TRAIL_ON_DEATH": "",                                                                                                                               <<<<<<<<<<<<<<<<<<
-  "COSMETIC/HACK_WAVE_TRAIL_ON_DEATH/TIP": "",                                                                                                                           <<<<<<<<<<<<<<<<<<
+  "COSMETIC/HACK_WAVE_TRAIL_ON_DEATH": "Scia della Wave alla Morte",
+  "COSMETIC/HACK_WAVE_TRAIL_ON_DEATH/TIP": "Mostra la Scia della Wave dopo la morte al posto di nasconderla",
   "COSMETIC/WAVE_PULSE_SIZE/DROPDOWN/SIZE": "",                                                                                                                               <<<<<<<<<<<<<<<<<<
   "COSMETIC/WAVE_PULSE_SIZE/DROPDOWN/SIZE/SUF": "",                                                                                                                           <<<<<<<<<<<<<<<<<<
   "COSMETIC/WAVE_PULSE_SIZE/HACK_WAVE_PULSE_SIZE": "",                                                                                                                        <<<<<<<<<<<<<<<<<<
@@ -91,7 +91,7 @@
   "CREATOR/HACK_DEFAULT_SONG_BYPASS": "",                                                                                                                          <<<<<<<<<<<<<<<<<<
   "CREATOR/HACK_DEFAULT_SONG_BYPASS/TIP": "",                                                                                                                      <<<<<<<<<<<<<<<<<<
   "CREATOR/HACK_EDITOR_EXTENSION": "Estensione dell'Editor",
-  "CREATOR/HACK_EDITOR_EXTENSION/TIP": "",                                                                                                                               <<<<<<<<<<<<<<<<<<
+  "CREATOR/HACK_EDITOR_EXTENSION/TIP": "Aumenta la lunghezza dell'editor da un fattore di 128",
   "CREATOR/HACK_FREE_SCROLL": "Scorrimento Libero",
   "CREATOR/HACK_FREE_SCROLL/TIP": "Abilita lo scorrimento fuori dall'editor",
   "CREATOR/HACK_HIDE_UI": "Nascondi: UI",
@@ -204,7 +204,7 @@
   "LEVEL/NOCLIP_LIMITS/DROPDOWN/DEATHS_LIMIT/SUF": "Morti",
   "LEVEL/NOCLIP_LIMITS/DROPDOWN/DEATH_LIMIT_ON": "Limite Morti Attivo",
   "LEVEL/NOCLIP_LIMITS/HACK_NOCLIP_LIMITS": "Limitazioni Noclip",
-  "LEVEL/NOCLIP_LIMITS/HACK_NOCLIP_LIMITS/TIP": "Uccide il giocatore dopo un numero di morti o una precisione bassa (Richiede Noclip abilitato)",
+  "LEVEL/NOCLIP_LIMITS/HACK_NOCLIP_LIMITS/TIP": "Uccide il giocatore dopo un numero di morti o una precisione bassa (Richiede 'Noclip' abilitato)",
   "LEVEL/RANDOM_SEED/DROPDOWN/SEED": "Seme:",
   "LEVEL/RANDOM_SEED/DROPDOWN/SEED/PRE": "Seme: ",
   "LEVEL/RANDOM_SEED/HACK_RANDOM_SEED": "Seme Randomizzato",
@@ -226,12 +226,12 @@
   "LEVEL/SHOW_HITBOXES/DROPDOWN/STROKE_SIZE/PRE": "Spessore Bordo: ",
   "LEVEL/SHOW_HITBOXES/HACK_SHOW_HITBOXES": "Mostra Hitbox",
   "LEVEL/SHOW_HITBOXES/HACK_SHOW_HITBOXES/TIP": "Mostra le Hitbox in un livello",
-  "LEVEL/SHOW_HITBOXES_TRAIL/DROPDOWN/MAX_DRAW": "",                                                                                                                                   <<<<<<<<<<<<<<<<<<
-  "LEVEL/SHOW_HITBOXES_TRAIL/DROPDOWN/MAX_DRAW/PRE": "",                                                                                                                               <<<<<<<<<<<<<<<<<<
-  "LEVEL/SHOW_HITBOXES_TRAIL/DROPDOWN/MAX_DRAW/SUF": "",                                                                                                                               <<<<<<<<<<<<<<<<<<
-  "LEVEL/SHOW_HITBOXES_TRAIL/DROPDOWN/UNCAPPED_EDITOR_LENGTH": "",                                                                                                                     <<<<<<<<<<<<<<<<<<
-  "LEVEL/SHOW_HITBOXES_TRAIL/HACK_SHOW_HITBOXES_TRAIL": "",                                                                                                                            <<<<<<<<<<<<<<<<<<
-  "LEVEL/SHOW_HITBOXES_TRAIL/HACK_SHOW_HITBOXES_TRAIL/TIP": "",                                                                                                                        <<<<<<<<<<<<<<<<<<
+  "LEVEL/SHOW_HITBOXES_TRAIL/DROPDOWN/MAX_DRAW": "Lunghezza Scia:",
+  "LEVEL/SHOW_HITBOXES_TRAIL/DROPDOWN/MAX_DRAW/PRE": "Lunghezza Scia: ",
+  "LEVEL/SHOW_HITBOXES_TRAIL/DROPDOWN/MAX_DRAW/SUF": " frame",
+  "LEVEL/SHOW_HITBOXES_TRAIL/DROPDOWN/UNCAPPED_EDITOR_LENGTH": "Lunghezza Scia Infinita (Editor)",
+  "LEVEL/SHOW_HITBOXES_TRAIL/HACK_SHOW_HITBOXES_TRAIL": "Mostra Scia Hitbox",
+  "LEVEL/SHOW_HITBOXES_TRAIL/HACK_SHOW_HITBOXES_TRAIL/TIP": "Mostra la Scia Hitbox di dove il giocatore è andato in un tentativo (Richiede 'Mostra Hitbox' abilitato",
   "LEVEL/SMART_STARTPOS/DROPDOWN/LEGACY_CALCULATION": "Calcolo 2.1 (Legacy)",
   "LEVEL/SMART_STARTPOS/HACK_SMART_STARTPOS": "StartPos Intelligente",
   "LEVEL/SMART_STARTPOS/HACK_SMART_STARTPOS/TIP": "Imposta la gamemode, la velocità, la grandezza (del giocatore) e lo spazio per uno StartPos in automatico",
