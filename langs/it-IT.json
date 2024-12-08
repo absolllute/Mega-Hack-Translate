@@ -75,66 +75,66 @@
   "COSMETIC/HACK_TRAIL_CUTTING/TIP": "",                                                                                                                           <<<<<<<<<<<<<<<<<<
   "COSMETIC/HACK_WAVE_TRAIL_FIX": "",                                                                                                                           <<<<<<<<<<<<<<<<<<
   "COSMETIC/HACK_WAVE_TRAIL_FIX/TIP": "",                                                                                                                       <<<<<<<<<<<<<<<<<<
-  "COSMETIC/HACK_WAVE_TRAIL_ON_DEATH": "",
-  "COSMETIC/HACK_WAVE_TRAIL_ON_DEATH/TIP": "",
-  "COSMETIC/WAVE_PULSE_SIZE/DROPDOWN/SIZE": "",
-  "COSMETIC/WAVE_PULSE_SIZE/DROPDOWN/SIZE/SUF": "",
-  "COSMETIC/WAVE_PULSE_SIZE/HACK_WAVE_PULSE_SIZE": "",
-  "COSMETIC/WAVE_PULSE_SIZE/HACK_WAVE_PULSE_SIZE/TIP": "",
-  "CREATOR": "",
-  "CREATOR/HACK_ACCURATE_SAVE": "",
-  "CREATOR/HACK_ACCURATE_SAVE/TIP": "",
-  "CREATOR/HACK_COPY_HACK": "",
-  "CREATOR/HACK_COPY_HACK/TIP": "",
-  "CREATOR/HACK_CUSTOM_OBJECT_BYPASS": "",
-  "CREATOR/HACK_CUSTOM_OBJECT_BYPASS/TIP": "",
-  "CREATOR/HACK_DEFAULT_SONG_BYPASS": "",
-  "CREATOR/HACK_DEFAULT_SONG_BYPASS/TIP": "",
-  "CREATOR/HACK_EDITOR_EXTENSION": "",
-  "CREATOR/HACK_EDITOR_EXTENSION/TIP": "",
-  "CREATOR/HACK_FREE_SCROLL": "",
-  "CREATOR/HACK_FREE_SCROLL/TIP": "",
-  "CREATOR/HACK_HIDE_UI": "",
-  "CREATOR/HACK_HIDE_UI/TIP": "",
-  "CREATOR/HACK_LEVEL_EDIT": "",
-  "CREATOR/HACK_LEVEL_EDIT/TIP": "",
-  "CREATOR/HACK_NO_C_MARK": "",
-  "CREATOR/HACK_NO_C_MARK/TIP": "",
-  "CREATOR/HACK_PLACE_OVER": "",
-  "CREATOR/HACK_PLACE_OVER/TIP": "",
-  "CREATOR/HACK_SMOOTH_EDITOR_TRAIL": "",
-  "CREATOR/HACK_SMOOTH_EDITOR_TRAIL/TIP": "",
-  "CREATOR/HACK_TOOLBOX_BUTTON_BYPASS": "",
-  "CREATOR/HACK_TOOLBOX_BUTTON_BYPASS/TIP": "",
-  "CREATOR/HACK_TRIGGER_VALUE_BYPASS": "",
-  "CREATOR/HACK_TRIGGER_VALUE_BYPASS/TIP": "",
-  "CREATOR/HACK_VERIFY_HACK": "",
-  "CREATOR/HACK_VERIFY_HACK/TIP": "",
-  "LEVEL": "",
-  "LEVEL/AUTO_DEAFEN/DROPDOWN/DEAFEN_AT": "",
-  "LEVEL/AUTO_DEAFEN/DROPDOWN/DEAFEN_AT/PRE": "",
-  "LEVEL/AUTO_DEAFEN/DROPDOWN/DEAFEN_AT/SUF": "",
-  "LEVEL/AUTO_DEAFEN/DROPDOWN/DEAFEN_IN_PRACTICE": "",
-  "LEVEL/AUTO_DEAFEN/DROPDOWN/DEAFEN_WITH_STARTPOS": "",
-  "LEVEL/AUTO_DEAFEN/DROPDOWN/SHORTCUT": "",
-  "LEVEL/AUTO_DEAFEN/DROPDOWN/SHORTCUT/PRE": "",
-  "LEVEL/AUTO_DEAFEN/DROPDOWN/UNDEAFEN_AT": "",
-  "LEVEL/AUTO_DEAFEN/DROPDOWN/UNDEAFEN_AT/PRE": "",
-  "LEVEL/AUTO_DEAFEN/DROPDOWN/UNDEAFEN_AT/SUF": "",
-  "LEVEL/AUTO_DEAFEN/DROPDOWN/UNDEAFEN_ON_PAUSE": "",
-  "LEVEL/AUTO_DEAFEN/HACK_AUTO_DEAFEN": "",
-  "LEVEL/AUTO_DEAFEN/HACK_AUTO_DEAFEN/TIP": "",
-  "LEVEL/AUTO_MUSIC_SYNC/DROPDOWN/NO_LEGACY_SYNC": "",
-  "LEVEL/AUTO_MUSIC_SYNC/DROPDOWN/THRESHOLD": "",
-  "LEVEL/AUTO_MUSIC_SYNC/DROPDOWN/THRESHOLD/PRE": "",
-  "LEVEL/AUTO_MUSIC_SYNC/DROPDOWN/THRESHOLD/SUF": "",
-  "LEVEL/AUTO_MUSIC_SYNC/HACK_AUTO_MUSIC_SYNC": "",
-  "LEVEL/AUTO_MUSIC_SYNC/HACK_AUTO_MUSIC_SYNC/TIP": "",
-  "LEVEL/AUTO_PICKUP_COINS/DROPDOWN/1": "",
-  "LEVEL/AUTO_PICKUP_COINS/DROPDOWN/2": "",
-  "LEVEL/AUTO_PICKUP_COINS/DROPDOWN/3": "",
-  "LEVEL/AUTO_PICKUP_COINS/HACK_AUTO_PICKUP_COINS": "",
-  "LEVEL/AUTO_PICKUP_COINS/HACK_AUTO_PICKUP_COINS/TIP": "",
+  "COSMETIC/HACK_WAVE_TRAIL_ON_DEATH": "",                                                                                                                               <<<<<<<<<<<<<<<<<<
+  "COSMETIC/HACK_WAVE_TRAIL_ON_DEATH/TIP": "",                                                                                                                           <<<<<<<<<<<<<<<<<<
+  "COSMETIC/WAVE_PULSE_SIZE/DROPDOWN/SIZE": "",                                                                                                                               <<<<<<<<<<<<<<<<<<
+  "COSMETIC/WAVE_PULSE_SIZE/DROPDOWN/SIZE/SUF": "",                                                                                                                           <<<<<<<<<<<<<<<<<<
+  "COSMETIC/WAVE_PULSE_SIZE/HACK_WAVE_PULSE_SIZE": "",                                                                                                                               <<<<<<<<<<<<<<<<<<
+  "COSMETIC/WAVE_PULSE_SIZE/HACK_WAVE_PULSE_SIZE/TIP": "",                                                                                                                           <<<<<<<<<<<<<<<<<<
+  "CREATOR": "Creatore",
+  "CREATOR/HACK_ACCURATE_SAVE": "Salvataggio Preciso",
+  "CREATOR/HACK_ACCURATE_SAVE/TIP": "Le Posizioni degli oggetti sono salvati più precisamente",
+  "CREATOR/HACK_COPY_HACK": "Abilita Copia",
+  "CREATOR/HACK_COPY_HACK/TIP": "Abilita la copia di qualsiasi livello, anche pre-2.2, senza password",
+  "CREATOR/HACK_CUSTOM_OBJECT_BYPASS": "",                                                                                                                               <<<<<<<<<<<<<<<<<<
+  "CREATOR/HACK_CUSTOM_OBJECT_BYPASS/TIP": "",                                                                                                                           <<<<<<<<<<<<<<<<<<
+  "CREATOR/HACK_DEFAULT_SONG_BYPASS": "",                                                                                                                          <<<<<<<<<<<<<<<<<<
+  "CREATOR/HACK_DEFAULT_SONG_BYPASS/TIP": "",                                                                                                                      <<<<<<<<<<<<<<<<<<
+  "CREATOR/HACK_EDITOR_EXTENSION": "Estensione dell'Editor",
+  "CREATOR/HACK_EDITOR_EXTENSION/TIP": "",                                                                                                                               <<<<<<<<<<<<<<<<<<
+  "CREATOR/HACK_FREE_SCROLL": "Scorrimento Libero",
+  "CREATOR/HACK_FREE_SCROLL/TIP": "Abilita lo scorrimento fuori dall'editor",
+  "CREATOR/HACK_HIDE_UI": "Nascondi: UI",
+  "CREATOR/HACK_HIDE_UI/TIP": "Nasconde l'UI dell'editor mentre si crea un livello",
+  "CREATOR/HACK_LEVEL_EDIT": "Abilita Modifica del Livello",
+  "CREATOR/HACK_LEVEL_EDIT/TIP": "Abilita la modifica *locale e temporanea* di qualsiasi livello",
+  "CREATOR/HACK_NO_C_MARK": "No Simbolo Copia",
+  "CREATOR/HACK_NO_C_MARK/TIP": "Rimuove il simbolo (C) vicino al tuo nome quando si pubblicano dei livelli creati attraverso una copia",
+  "CREATOR/HACK_PLACE_OVER": "",                                                                                                                                <<<<<<<<<<<<<<<<<<
+  "CREATOR/HACK_PLACE_OVER/TIP": "Abilita il Piazzamento dello stesso oggetto su se stesso nell'editor",
+  "CREATOR/HACK_SMOOTH_EDITOR_TRAIL": "",                                                                                                                               <<<<<<<<<<<<<<<<<<
+  "CREATOR/HACK_SMOOTH_EDITOR_TRAIL/TIP": "",                                                                                                                           <<<<<<<<<<<<<<<<<<
+  "CREATOR/HACK_TOOLBOX_BUTTON_BYPASS": "",                                                                                                                               <<<<<<<<<<<<<<<<<<
+  "CREATOR/HACK_TOOLBOX_BUTTON_BYPASS/TIP": "",                                                                                                                           <<<<<<<<<<<<<<<<<<
+  "CREATOR/HACK_TRIGGER_VALUE_BYPASS": "Valore Trigger Illimitato",
+  "CREATOR/HACK_TRIGGER_VALUE_BYPASS/TIP": "Rimuove i limiti dei Valori nei Trigger",
+  "CREATOR/HACK_VERIFY_HACK": "",                                                                                                                               <<<<<<<<<<<<<<<<<<
+  "CREATOR/HACK_VERIFY_HACK/TIP": "Abilita la pubblicazione di livelli non verificati",
+  "LEVEL": "Livello",
+  "LEVEL/AUTO_DEAFEN/DROPDOWN/DEAFEN_AT": "Silenzia a:",
+  "LEVEL/AUTO_DEAFEN/DROPDOWN/DEAFEN_AT/PRE": "Silenzia a: ",
+  "LEVEL/AUTO_DEAFEN/DROPDOWN/DEAFEN_AT/SUF": "%",
+  "LEVEL/AUTO_DEAFEN/DROPDOWN/DEAFEN_IN_PRACTICE": "Silenzia in Modalità Pratica",
+  "LEVEL/AUTO_DEAFEN/DROPDOWN/DEAFEN_WITH_STARTPOS": "Silenzia con i StartPos",
+  "LEVEL/AUTO_DEAFEN/DROPDOWN/SHORTCUT": "",                                                                                                                               <<<<<<<<<<<<<<<<<<
+  "LEVEL/AUTO_DEAFEN/DROPDOWN/SHORTCUT/PRE": "",                                                                                                                           <<<<<<<<<<<<<<<<<<
+  "LEVEL/AUTO_DEAFEN/DROPDOWN/UNDEAFEN_AT": "Riattiva a:",
+  "LEVEL/AUTO_DEAFEN/DROPDOWN/UNDEAFEN_AT/PRE": "Riattiva a: ",
+  "LEVEL/AUTO_DEAFEN/DROPDOWN/UNDEAFEN_AT/SUF": "%",
+  "LEVEL/AUTO_DEAFEN/DROPDOWN/UNDEAFEN_ON_PAUSE": "Riattiva in Pausa",
+  "LEVEL/AUTO_DEAFEN/HACK_AUTO_DEAFEN": "Silenziamento Audio (Discord)",
+  "LEVEL/AUTO_DEAFEN/HACK_AUTO_DEAFEN/TIP": "Silenzia l'Audio di una Chiamata su Discord dopo un certo punto del livello",
+  "LEVEL/AUTO_MUSIC_SYNC/DROPDOWN/NO_LEGACY_SYNC": "",                                                                                                                               <<<<<<<<<<<<<<<<<<
+  "LEVEL/AUTO_MUSIC_SYNC/DROPDOWN/THRESHOLD": "Soglia (ms):",
+  "LEVEL/AUTO_MUSIC_SYNC/DROPDOWN/THRESHOLD/PRE": "Soglia: ",
+  "LEVEL/AUTO_MUSIC_SYNC/DROPDOWN/THRESHOLD/SUF": "ms",
+  "LEVEL/AUTO_MUSIC_SYNC/HACK_AUTO_MUSIC_SYNC": "Sync Automatico",
+  "LEVEL/AUTO_MUSIC_SYNC/HACK_AUTO_MUSIC_SYNC/TIP": "Corregge la musica dopo un desync (Funziona solo per i livelli con una canzone e per livelli lineari)",
+  "LEVEL/AUTO_PICKUP_COINS/DROPDOWN/1": "Moneta 1",
+  "LEVEL/AUTO_PICKUP_COINS/DROPDOWN/2": "Moneta 2",
+  "LEVEL/AUTO_PICKUP_COINS/DROPDOWN/3": "Moneta 3",
+  "LEVEL/AUTO_PICKUP_COINS/HACK_AUTO_PICKUP_COINS": "Colleziona Monete Automaticamente",
+  "LEVEL/AUTO_PICKUP_COINS/HACK_AUTO_PICKUP_COINS/TIP": "Colleziona le Monete Automaticamente",
   "LEVEL/FRAME_STEPPER/DROPDOWN/BACK": "",                                                                                                                                   <<<<<<<<<<<<<<<<<<
   "LEVEL/FRAME_STEPPER/DROPDOWN/BACK/PRE": "",                                                                                                                               <<<<<<<<<<<<<<<<<<
   "LEVEL/FRAME_STEPPER/DROPDOWN/PAUSE": "",                                                                                                                                  <<<<<<<<<<<<<<<<<<
@@ -257,7 +257,7 @@
   "UNIVERSAL/HACK_NO_TRANSITION": "No Transizioni",
   "UNIVERSAL/HACK_NO_TRANSITION/TIP": "Rimuove le transizioni tra i vari menu e sul caricamento di un livello",
   "UNIVERSAL/HACK_SAFE_MODE": "Modalità Sicura",
-  "UNIVERSAL/HACK_SAFE_MODE/TIP": "Disabilita progressi e verificazioni sui livelli",
+  "UNIVERSAL/HACK_SAFE_MODE/TIP": "Disabilita progressi e verificazioni dei livelli",
   "UNIVERSAL/HACK_SAFE_MODE_POPUP": "Allerta Modalità Sicura",
   "UNIVERSAL/HACK_SAFE_MODE_POPUP/TIP": "Avvisa prima dell'inizio di un livello se i cheat sono abilitati",
   "UNIVERSAL/PITCH_SHIFTER/DROPDOWN/PITCH": "Ottavi:",
@@ -275,5 +275,5 @@
 }
 
 {
-  "_comment": "The '<<<<<<<<<' in the end of the lines are signs to what translations are missing. Not all missing translations were marked I had to go eat lol. Fork made by RealMuffinCat <3"
+  "_comment": "The '<<<<<<<<<' in the end of the lines are signs to what translations are missing. Fork made by RealMuffinCat <3"
 }
