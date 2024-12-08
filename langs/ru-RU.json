@@ -271,5 +271,5 @@
   "UNIVERSAL/THREAD_PRIORITY/DROPDOWN/COMBO/3": "Высокий",
   "UNIVERSAL/THREAD_PRIORITY/DROPDOWN/COMBO/4": "Наивысший",
   "UNIVERSAL/THREAD_PRIORITY/HACK_THREAD_PRIORITY": "Приоритет Потока",
-  "UNIVERSAL/THREAD_PRIORITY/HACK_THREAD_PRIORITY/TIP": "Влияет на то, сколько времени ЦП получает ГД, может улучшить производительность"
+  "UNIVERSAL/THREAD_PRIORITY/HACK_THREAD_PRIORITY/TIP": "Влияет на то, сколько времени ЦП получает GD, может улучшить производительность"
 }
