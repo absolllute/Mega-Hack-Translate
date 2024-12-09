@@ -9,7 +9,7 @@
   "NX/COLOUR/INPUT/PRE": "HEX:",
   "NX/COLOUR/R": "Rosso:",
   "NX/COLOUR/R/PRE": "R: ",
-  "NX/COLOUR/RESET": "",                                                                                                                               <<<<<<<<<<<<<<<<<<
+  "NX/COLOUR/RESET": "Reimposta Colore",
   "HOME": "Mega Hack",
   "HOME/LANGUAGE": "Lingua: ",
   "HOME/SEARCH": "Cerca: ",
@@ -28,8 +28,8 @@
   "BYPASS/HACK_UNLOCK_ICONS/TIP": "Sblocca tutte le Icone",
   "BYPASS/HACK_UNLOCK_SHOPS": "Sblocca Negozi",
   "BYPASS/HACK_UNLOCK_SHOPS/TIP": "Sblocca tutti i Negozi",
-  "BYPASS/HACK_UNLOCK_VAULTS": "",                                                                                                                               <<<<<<<<<<<<<<<<<<
-  "BYPASS/HACK_UNLOCK_VAULTS/TIP": "",                                                                                                                           <<<<<<<<<<<<<<<<<<
+  "BYPASS/HACK_UNLOCK_VAULTS": "Sblocca Cripte",
+  "BYPASS/HACK_UNLOCK_VAULTS/TIP": "Sblocca tutte le Cripte (I Vault)",
   "COSMETIC": "Estetica",
   "COSMETIC/HACK_CLASSIC_PARTICLES": "Particelle Classiche",
   "COSMETIC/HACK_CLASSIC_PARTICLES/TIP": "Imposta le Mini Particelle Classiche che seguono il giocatore",
@@ -43,26 +43,26 @@
   "COSMETIC/HACK_NO_CAMERA/TIP": "Disabilita le Trigger che muovono la Camera del livello",
   "COSMETIC/HACK_NO_CAMERA_ZOOM": "No Camera Zoom",
   "COSMETIC/HACK_NO_CAMERA_ZOOM/TIP": "Disabilita le Trigger che impostano lo Zoom della Camera",
-  "COSMETIC/HACK_NO_DEATH_EFFECT": "",                                                                                                                               <<<<<<<<<<<<<<<<<<
-  "COSMETIC/HACK_NO_DEATH_EFFECT/TIP": "",                                                                                                                           <<<<<<<<<<<<<<<<<<
-  "COSMETIC/HACK_NO_DO_NOT_FLIP": "",                                                                                                                               <<<<<<<<<<<<<<<<<<
-  "COSMETIC/HACK_NO_DO_NOT_FLIP/TIP": "",                                                                                                                           <<<<<<<<<<<<<<<<<<
+  "COSMETIC/HACK_NO_DEATH_EFFECT": "No Effetto alla Morte",
+  "COSMETIC/HACK_NO_DEATH_EFFECT/TIP": "Disabilita l'Effetto che avviene alla Morte",
+  "COSMETIC/HACK_NO_DO_NOT_FLIP": "No Rotazione (Impostazione 'Do Not...')",
+  "COSMETIC/HACK_NO_DO_NOT_FLIP/TIP": "Disabilita la Rotazione del numero dei tentativi e del testo del livello completato quando l'opzione 'Do Not...' è abilitata",
   "COSMETIC/HACK_NO_PARTICLES": "No Particelle",
   "COSMETIC/HACK_NO_PARTICLES/TIP": "Disabilita le Particelle (Per la maggior parte)",
-  "COSMETIC/HACK_NO_PORTAL_LIGHTNING": "",                                                                                                                               <<<<<<<<<<<<<<<<<<
-  "COSMETIC/HACK_NO_PORTAL_LIGHTNING/TIP": "",                                                                                                                           <<<<<<<<<<<<<<<<<<
-  "COSMETIC/HACK_NO_PULSE": "",                                                                                                                               <<<<<<<<<<<<<<<<<<
-  "COSMETIC/HACK_NO_PULSE/TIP": "",                                                                                                                           <<<<<<<<<<<<<<<<<<
-  "COSMETIC/HACK_NO_RESPAWN_FLASH": "",                                                                                                                               <<<<<<<<<<<<<<<<<<
-  "COSMETIC/HACK_NO_RESPAWN_FLASH/TIP": "",                                                                                                                           <<<<<<<<<<<<<<<<<<
+  "COSMETIC/HACK_NO_PORTAL_LIGHTNING": "No Flash ai Portali",
+  "COSMETIC/HACK_NO_PORTAL_LIGHTNING/TIP": "Disabilita il Flash dello sfondo di un livello dai portali che cambiano la grandezza del giocatore",
+  "COSMETIC/HACK_NO_PULSE": "No Pulsazioni",
+  "COSMETIC/HACK_NO_PULSE/TIP": "Disabilita le Pulsazioni degli oggetti (Come Orb)",
+  "COSMETIC/HACK_NO_RESPAWN_FLASH": "No Flash alla Rinascita",
+  "COSMETIC/HACK_NO_RESPAWN_FLASH/TIP": "Disabilita il Flash alla Rinascita e Disabilita l'Effetto a Cerchio attorno il giocatore",
   "COSMETIC/HACK_NO_SHADERS": "No Shader",
   "COSMETIC/HACK_NO_SHADERS/TIP": "Disabilita le Shader nei livelli",
-  "COSMETIC/HACK_NO_SHAKE": "",                                                                                                                               <<<<<<<<<<<<<<<<<<
-  "COSMETIC/HACK_NO_SHAKE/TIP": "",                                                                                                                           <<<<<<<<<<<<<<<<<<
+  "COSMETIC/HACK_NO_SHAKE": "No Scosse",
+  "COSMETIC/HACK_NO_SHAKE/TIP": "Disabilita le Trigger che scuotono un livello",
   "COSMETIC/HACK_NO_TRAIL": "No Scia",
   "COSMETIC/HACK_NO_TRAIL/TIP": "Disabilita la Scia del giocatore",
-  "COSMETIC/HACK_NO_WAVE_PULSE": "",                                                                                                                               <<<<<<<<<<<<<<<<<<
-  "COSMETIC/HACK_NO_WAVE_PULSE/TIP": "",                                                                                                                           <<<<<<<<<<<<<<<<<<
+  "COSMETIC/HACK_NO_WAVE_PULSE": "No Pulsazioni (Wave)",
+  "COSMETIC/HACK_NO_WAVE_PULSE/TIP": "Disabilita la Pulsazione della Scia della Wave",
   "COSMETIC/HACK_NO_WAVE_TRAIL": "No Scia (Wave)",
   "COSMETIC/HACK_NO_WAVE_TRAIL/TIP": "Disabilita la Scia della Wave (La scia predefinita non viene disabilitata)",
   "COSMETIC/HACK_NO_WAVE_TRAIL_BEHIND": "No Scia Dietro (Wave)",
@@ -72,24 +72,24 @@
   "COSMETIC/HACK_STOP_TRIGGERS_ON_DEATH": "Ferma i Trigger alla Morte",
   "COSMETIC/HACK_STOP_TRIGGERS_ON_DEATH/TIP": "Ferma i movimenti e le rotazioni dai Triggers alla morte per vedere come sei morto",
   "COSMETIC/HACK_TRAIL_CUTTING": "Taglio Scia",
-  "COSMETIC/HACK_TRAIL_CUTTING/TIP": "",                                                                                                                           <<<<<<<<<<<<<<<<<<
-  "COSMETIC/HACK_WAVE_TRAIL_FIX": "",                                                                                                                           <<<<<<<<<<<<<<<<<<
-  "COSMETIC/HACK_WAVE_TRAIL_FIX/TIP": "",                                                                                                                       <<<<<<<<<<<<<<<<<<
+  "COSMETIC/HACK_TRAIL_CUTTING/TIP": "Abilita il vecchio bug della Scia Tagliente",
+  "COSMETIC/HACK_WAVE_TRAIL_FIX": "Bugfix: Scia (Wave)",
+  "COSMETIC/HACK_WAVE_TRAIL_FIX/TIP": "Ripara la Scia Spezzata",
   "COSMETIC/HACK_WAVE_TRAIL_ON_DEATH": "Scia della Wave alla Morte",
   "COSMETIC/HACK_WAVE_TRAIL_ON_DEATH/TIP": "Mostra la Scia della Wave dopo la morte al posto di nasconderla",
-  "COSMETIC/WAVE_PULSE_SIZE/DROPDOWN/SIZE": "",                                                                                                                               <<<<<<<<<<<<<<<<<<
-  "COSMETIC/WAVE_PULSE_SIZE/DROPDOWN/SIZE/SUF": "",                                                                                                                           <<<<<<<<<<<<<<<<<<
-  "COSMETIC/WAVE_PULSE_SIZE/HACK_WAVE_PULSE_SIZE": "",                                                                                                                        <<<<<<<<<<<<<<<<<<
-  "COSMETIC/WAVE_PULSE_SIZE/HACK_WAVE_PULSE_SIZE/TIP": "",                                                                                                                    <<<<<<<<<<<<<<<<<<
+  "COSMETIC/WAVE_PULSE_SIZE/DROPDOWN/SIZE": "Moltiplicatore della Pulsazione della Wave:",
+  "COSMETIC/WAVE_PULSE_SIZE/DROPDOWN/SIZE/SUF": "x",
+  "COSMETIC/WAVE_PULSE_SIZE/HACK_WAVE_PULSE_SIZE": "Grandezza della Pulsazione della Wave",
+  "COSMETIC/WAVE_PULSE_SIZE/HACK_WAVE_PULSE_SIZE/TIP": "Cambia la Grandezza della Pulsazione nella Scia della Wave",
   "CREATOR": "Creatore",
   "CREATOR/HACK_ACCURATE_SAVE": "Salvataggio Preciso",
   "CREATOR/HACK_ACCURATE_SAVE/TIP": "Le Posizioni degli oggetti sono salvati più precisamente",
   "CREATOR/HACK_COPY_HACK": "Abilita Copia",
   "CREATOR/HACK_COPY_HACK/TIP": "Abilita la copia di qualsiasi livello, anche pre-2.2, senza password",
-  "CREATOR/HACK_CUSTOM_OBJECT_BYPASS": "",                                                                                                                               <<<<<<<<<<<<<<<<<<
-  "CREATOR/HACK_CUSTOM_OBJECT_BYPASS/TIP": "",                                                                                                                           <<<<<<<<<<<<<<<<<<
-  "CREATOR/HACK_DEFAULT_SONG_BYPASS": "",                                                                                                                          <<<<<<<<<<<<<<<<<<
-  "CREATOR/HACK_DEFAULT_SONG_BYPASS/TIP": "",                                                                                                                      <<<<<<<<<<<<<<<<<<
+  "CREATOR/HACK_CUSTOM_OBJECT_BYPASS": "Salvataggio Illimitato di Oggetti",
+  "CREATOR/HACK_CUSTOM_OBJECT_BYPASS/TIP": "Rimuove il Limite degli oggetti che si possono salvare come oggetti personalizzati (Limite: 50 Oggetti)",
+  "CREATOR/HACK_DEFAULT_SONG_BYPASS": "Canzoni Predefinite Nascoste",
+  "CREATOR/HACK_DEFAULT_SONG_BYPASS/TIP": "Abilita l'uso delle Canzoni Predefinite Nascoste (Come quelle di Subzero, Meltdown e GD World)",
   "CREATOR/HACK_EDITOR_EXTENSION": "Estensione dell'Editor",
   "CREATOR/HACK_EDITOR_EXTENSION/TIP": "Aumenta la lunghezza dell'editor da un fattore di 128",
   "CREATOR/HACK_FREE_SCROLL": "Scorrimento Libero",
@@ -100,15 +100,15 @@
   "CREATOR/HACK_LEVEL_EDIT/TIP": "Abilita la modifica *locale e temporanea* di qualsiasi livello",
   "CREATOR/HACK_NO_C_MARK": "No Simbolo Copia",
   "CREATOR/HACK_NO_C_MARK/TIP": "Rimuove il simbolo (C) vicino al tuo nome quando si pubblicano dei livelli creati attraverso una copia",
-  "CREATOR/HACK_PLACE_OVER": "",                                                                                                                                <<<<<<<<<<<<<<<<<<
+  "CREATOR/HACK_PLACE_OVER": "Piazza lo Stesso Oggetto",
   "CREATOR/HACK_PLACE_OVER/TIP": "Abilita il Piazzamento dello stesso oggetto su se stesso nell'editor",
-  "CREATOR/HACK_SMOOTH_EDITOR_TRAIL": "",                                                                                                                               <<<<<<<<<<<<<<<<<<
-  "CREATOR/HACK_SMOOTH_EDITOR_TRAIL/TIP": "",                                                                                                                           <<<<<<<<<<<<<<<<<<
-  "CREATOR/HACK_TOOLBOX_BUTTON_BYPASS": "",                                                                                                                               <<<<<<<<<<<<<<<<<<
-  "CREATOR/HACK_TOOLBOX_BUTTON_BYPASS/TIP": "",                                                                                                                           <<<<<<<<<<<<<<<<<<
+  "CREATOR/HACK_SMOOTH_EDITOR_TRAIL": "Scia Liscia: Editor",
+  "CREATOR/HACK_SMOOTH_EDITOR_TRAIL/TIP": "Rende la Scia nell'Editor più liscia aggiornandola ad ogni frame al posto di 30 volte a secondo (30 FPS)",
+  "CREATOR/HACK_TOOLBOX_BUTTON_BYPASS": "Oggetti Illimitati nella Barra Oggetti",
+  "CREATOR/HACK_TOOLBOX_BUTTON_BYPASS/TIP": "Abilità per più oggetti di essere messi nella Barra Oggetti",
   "CREATOR/HACK_TRIGGER_VALUE_BYPASS": "Valore Trigger Illimitato",
   "CREATOR/HACK_TRIGGER_VALUE_BYPASS/TIP": "Rimuove i limiti dei Valori nei Trigger",
-  "CREATOR/HACK_VERIFY_HACK": "",                                                                                                                               <<<<<<<<<<<<<<<<<<
+  "CREATOR/HACK_VERIFY_HACK": "Pubblicazione dei Non-Verificati",
   "CREATOR/HACK_VERIFY_HACK/TIP": "Abilita la pubblicazione di livelli non verificati",
   "LEVEL": "Livello",
   "LEVEL/AUTO_DEAFEN/DROPDOWN/DEAFEN_AT": "Silenzia a:",
@@ -116,8 +116,8 @@
   "LEVEL/AUTO_DEAFEN/DROPDOWN/DEAFEN_AT/SUF": "%",
   "LEVEL/AUTO_DEAFEN/DROPDOWN/DEAFEN_IN_PRACTICE": "Silenzia in Modalità Pratica",
   "LEVEL/AUTO_DEAFEN/DROPDOWN/DEAFEN_WITH_STARTPOS": "Silenzia con i StartPos",
-  "LEVEL/AUTO_DEAFEN/DROPDOWN/SHORTCUT": "",                                                                                                                               <<<<<<<<<<<<<<<<<<
-  "LEVEL/AUTO_DEAFEN/DROPDOWN/SHORTCUT/PRE": "",                                                                                                                           <<<<<<<<<<<<<<<<<<
+  "LEVEL/AUTO_DEAFEN/DROPDOWN/SHORTCUT": "Scorciatoia (Silenziamento Audio):",
+  "LEVEL/AUTO_DEAFEN/DROPDOWN/SHORTCUT/PRE": "Scorciatoia:",
   "LEVEL/AUTO_DEAFEN/DROPDOWN/UNDEAFEN_AT": "Riattiva a:",
   "LEVEL/AUTO_DEAFEN/DROPDOWN/UNDEAFEN_AT/PRE": "Riattiva a: ",
   "LEVEL/AUTO_DEAFEN/DROPDOWN/UNDEAFEN_AT/SUF": "%",
@@ -135,35 +135,35 @@
   "LEVEL/AUTO_PICKUP_COINS/DROPDOWN/3": "Moneta 3",
   "LEVEL/AUTO_PICKUP_COINS/HACK_AUTO_PICKUP_COINS": "Colleziona Monete Automaticamente",
   "LEVEL/AUTO_PICKUP_COINS/HACK_AUTO_PICKUP_COINS/TIP": "Colleziona le Monete Automaticamente",
-  "LEVEL/FRAME_STEPPER/DROPDOWN/BACK": "",                                                                                                                                   <<<<<<<<<<<<<<<<<<
-  "LEVEL/FRAME_STEPPER/DROPDOWN/BACK/PRE": "",                                                                                                                               <<<<<<<<<<<<<<<<<<
-  "LEVEL/FRAME_STEPPER/DROPDOWN/PAUSE": "",                                                                                                                                  <<<<<<<<<<<<<<<<<<
-  "LEVEL/FRAME_STEPPER/DROPDOWN/PAUSE/PRE": "",                                                                                                                              <<<<<<<<<<<<<<<<<<
-  "LEVEL/FRAME_STEPPER/DROPDOWN/STEP": "",                                                                                                                                   <<<<<<<<<<<<<<<<<<
-  "LEVEL/FRAME_STEPPER/DROPDOWN/STEP/PRE": "",                                                                                                                               <<<<<<<<<<<<<<<<<<
-  "LEVEL/FRAME_STEPPER/HACK_FRAME_STEPPER": "",                                                                                                                              <<<<<<<<<<<<<<<<<<
-  "LEVEL/FRAME_STEPPER/HACK_FRAME_STEPPER/TIP": "",                                                                                                                          <<<<<<<<<<<<<<<<<<
+  "LEVEL/FRAME_STEPPER/DROPDOWN/BACK": "Scorciatoia (Frame Precedente):",
+  "LEVEL/FRAME_STEPPER/DROPDOWN/BACK/PRE": "Frame Precedente: ",
+  "LEVEL/FRAME_STEPPER/DROPDOWN/PAUSE": "Scorciatoia (Pausa)",
+  "LEVEL/FRAME_STEPPER/DROPDOWN/PAUSE/PRE": "Pausa: ",
+  "LEVEL/FRAME_STEPPER/DROPDOWN/STEP": "Scorciatoia (Frame Successivo)",
+  "LEVEL/FRAME_STEPPER/DROPDOWN/STEP/PRE": "Frame Successivo: ",
+  "LEVEL/FRAME_STEPPER/HACK_FRAME_STEPPER": "Analisi Frame",
+  "LEVEL/FRAME_STEPPER/HACK_FRAME_STEPPER/TIP": "Abilita il cambio tra frame in avanti e in indietro",
   "LEVEL/HACK_0_PRACTICE_COMPLETE": "Completamento in Modalità Pratica da 0%",
   "LEVEL/HACK_0_PRACTICE_COMPLETE/TIP": "Completa un livello come in Modalità Normale se si completa in un tentativo da 0.00% in Modalità Pratica",
   "LEVEL/HACK_ALL_MODES_PLATFORMER": "Platformer in Qualsiasi Gamemode",
-  "LEVEL/HACK_ALL_MODES_PLATFORMER/TIP": "Abilità la Modalità Platformer in qualsiasi gamemode (Inclusa la Wave e lo Swing)",
+  "LEVEL/HACK_ALL_MODES_PLATFORMER/TIP": "Abilita la Modalità Platformer in qualsiasi gamemode (Inclusa la Wave e lo Swing)",
   "LEVEL/HACK_AUTO_SONG_DOWNLOAD": "Scaricamento Automatico: Canzone",
   "LEVEL/HACK_AUTO_SONG_DOWNLOAD/TIP": "Scarica automaticamente le canzoni di un livello quando apri la sua pagina",
   "LEVEL/HACK_CHECKPOINT_LIMIT_BYPASS": "Ignora il Limite Checkpoint",
   "LEVEL/HACK_CHECKPOINT_LIMIT_BYPASS/TIP": "Ignora il Limite dei 50 Checkpoint in Modalità Pratica",
   "LEVEL/HACK_COLLECT_COINS_IN_PRACTICE": "Colleziona Monete in Modalità Pratica",
   "LEVEL/HACK_COLLECT_COINS_IN_PRACTICE/TIP": "Abilita la Collezione delle Monete in Modalità Pratica (Fatto da WEGFan)",
-  "LEVEL/HACK_CONFIRM_FULL_RESET": "",                                                                                                                                            <<<<<<<<<<<<<<<<<<
-  "LEVEL/HACK_CONFIRM_FULL_RESET/TIP": "",                                                                                                                                        <<<<<<<<<<<<<<<<<<
+  "LEVEL/HACK_CONFIRM_FULL_RESET": "Conferma Riavvio Completo",
+  "LEVEL/HACK_CONFIRM_FULL_RESET/TIP": "Richiede Conferma prima di Riavviare un Livello, reimpostando il numero di tentativi e dove si è arrivati nei Checkpoint in Modalità Platformer",
   "LEVEL/HACK_CONFIRM_NORMAL": "Conferma: Modalità Normale",
   "LEVEL/HACK_CONFIRM_NORMAL/TIP": "Richiede Conferma prima di uscire dalla Modalità Pratica (Oppure, prima di usare la Modalità Normale)",
   "LEVEL/HACK_CONFIRM_PRACTICE": "Conferma: Modalità Pratica",
   "LEVEL/HACK_CONFIRM_PRACTICE/TIP": "Richiede Conferma prima di usare la Modalità Pratica",
-  "LEVEL/HACK_CONFIRM_RESET": "",                                                                                                                                                 <<<<<<<<<<<<<<<<<<
-  "LEVEL/HACK_CONFIRM_RESET/TIP": "",                                                                                                                                             <<<<<<<<<<<<<<<<<<
+  "LEVEL/HACK_CONFIRM_RESET": "Conferma Riavvio Livello",
+  "LEVEL/HACK_CONFIRM_RESET/TIP": "Richiede Conferma prima di riavviare il livello, cioè di fare un nuovo tentativo",
   "LEVEL/HACK_FORCE_PLATFORMER": "Forza Modalità Platformer",
   "LEVEL/HACK_FORCE_PLATFORMER/TIP": "Forza la Modalità Platformer in tutti i livelli",
-  "LEVEL/HACK_INSTANT_COMPLETE": "",                                                                                                                                             <<<<<<<<<<<<<<<<<<
+  "LEVEL/HACK_INSTANT_COMPLETE": "100% Instantaneo",
   "LEVEL/HACK_INSTANT_COMPLETE/TIP": "Manda il giocatore alla fine del livello, in modo che il livello si completi",
   "LEVEL/HACK_PRACTICE_BUG_FIX": "BugFix: Modalità Pratica",
   "LEVEL/HACK_PRACTICE_BUG_FIX/TIP": "Salva e imposta la velocità del giocatore in Modalità Pratica",
@@ -252,8 +252,8 @@
   "UNIVERSAL/HACK_FAST_CHESTS/TIP": "Velocizza le animazioni delle casse",
   "UNIVERSAL/HACK_LOCK_CURSOR": "Blocca Cursore",
   "UNIVERSAL/HACK_LOCK_CURSOR/TIP": "Blocca il cursore sulla finestra quando in un livello",
-  "UNIVERSAL/HACK_MAIN_MENU_PLAY": "",                                                                                                                                                   <<<<<<<<<<<<<<<<<<
-  "UNIVERSAL/HACK_MAIN_MENU_PLAY/TIP": "",                                                                                                                                               <<<<<<<<<<<<<<<<<<
+  "UNIVERSAL/HACK_MAIN_MENU_PLAY": "Controllo Icone (Menù Principale)",
+  "UNIVERSAL/HACK_MAIN_MENU_PLAY/TIP": "Prendi Controllo delle icone nel Menù Principale (Nello Sfondo)",
   "UNIVERSAL/HACK_NO_TRANSITION": "No Transizioni",
   "UNIVERSAL/HACK_NO_TRANSITION/TIP": "Rimuove le transizioni tra i vari menu e sul caricamento di un livello",
   "UNIVERSAL/HACK_SAFE_MODE": "Modalità Sicura",
@@ -275,5 +275,5 @@
 }
 
 {
-  "_comment": "The '<<<<<<<<<' in the end of the lines are signs to what translations are missing. Fork made by @RealMuffinCat <3"
+  "_comment": "Fork made by @RealMuffinCat <3"
 }
