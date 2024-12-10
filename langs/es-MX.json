@@ -281,7 +281,7 @@
   "SPEEDHACK/HACK_SPEEDHACK_AUDIO": "Ajustar audio",
   "SPEEDHACK/HACK_SPEEDHACK_AUDIO/TIP": "Sincroniza la velocidad del juego con el audio del juego.",
   "SPEEDHACK/HACK_SPEEDHACK_CLASSIC": "Modo clásico",
-  "SPEEDHACK/HACK_SPEEDHACK_CLASSIC/HACK_SPEEDHACK/TIP": "",
+  "SPEEDHACK/HACK_SPEEDHACK_CLASSIC/HACK_SPEEDHACK/TIP": "Cambia la velocidad del juego de manera antigua.",
   "DISPLAY": "Pantalla",
   "DISPLAY/FPS/SPINNER": "FPS:",
   "DISPLAY/FPS/SPINNER/SUF": " FPS",
