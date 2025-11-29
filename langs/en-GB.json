@@ -313,7 +313,7 @@
   "LEVEL/HACK_SHOW_TRIGGERS": "Show Triggers",
   "LEVEL/HACK_SHOW_TRIGGERS/TIP": "Shows triggers in level",
   "LEVEL/HACK_SHIPCOPTER": "Shipcopter",
-  "LEVEL/HACK_SHIPCOPTER/TIP": "Adds Ship controls to the Swing mode, keeps Swing physics",
+  "LEVEL/HACK_SHIPCOPTER/TIP": "Adds Ship controls to the Swing mode, keeps Swing physics. Made by Beat",
   "LEVEL/HITBOX_MULTIPLIER/HACK_HITBOX_MULTIPLIER": "Hitbox Multiplier",
   "LEVEL/HITBOX_MULTIPLIER/HACK_HITBOX_MULTIPLIER/TIP": "Resizes object hitboxes by a set multiplier",
   "LEVEL/HITBOX_MULTIPLIER/DROPDOWN/HAZARDS/ENABLED": "Hazards",
