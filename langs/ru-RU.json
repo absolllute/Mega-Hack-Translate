@@ -588,7 +588,7 @@
   "STATUS/CPS/DROPDOWN/MAX": "Показать максимальное количество кликов в секунду",
   "STATUS/CPS/DROPDOWN/TOTAL": "Общее количество кликов",
   "STATUS/BEST_RUN/ENABLED": "Лучший прогресс",
-  "STATUS/NOCLIP_ACCURACY/ENABLED": "Аккуратность",
+  "STATUS/NOCLIP_ACCURACY/ENABLED": "Точность",
   "STATUS/NOCLIP_ACCURACY/DROPDOWN/PREFIX": "Показывать префикс",
   "STATUS/NOCLIP_DEATHS/ENABLED": "Смерти",
   "STATUS/ATTEMPTS/ENABLED": "Попытки",
