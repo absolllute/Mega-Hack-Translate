@@ -596,7 +596,7 @@
   "STATUS/LEVEL_TIME/ENABLED": "Время в уровне",
   "STATUS/PERCENTAGE/ENABLED": "Проценты",
   "STATUS/CLOCK/ENABLED": "Часы",
-  "STATUS/CLOCK/DROPDOWN/TWELVE_HOUR": "12-ти часовая система",
+  "STATUS/CLOCK/DROPDOWN/TWELVE_HOUR": "12-ти часовая система (AM/PM)",
   "STATUS/FRAME/ENABLED": "Счетчик кадров",
   "STATUS/POSITION/ENABLED": "Позиция",
   "STATUS/REPLAY_STATE/ENABLED": "Состояние воспроизведения",
