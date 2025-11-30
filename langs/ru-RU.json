@@ -108,7 +108,7 @@
   "COSMETIC/HACK_HIDE_PLAYER/TIP": "Скрывает иконку игрока",
   "COSMETIC/HACK_NO_CAMERA": "Без движения камеры",
   "COSMETIC/HACK_NO_CAMERA/TIP": "Отключает триггеры, которые влияют на движение камеры",
-  "COSMETIC/HACK_NO_CAMERA_ZOOM": "Без приблежения камеры",
+  "COSMETIC/HACK_NO_CAMERA_ZOOM": "Без приближения камеры",
   "COSMETIC/HACK_NO_CAMERA_ZOOM/TIP": "Отключает триггеры, отвечающие за приближение и отдаление камеры",
   "COSMETIC/HACK_NO_DEATH_EFFECT": "Без эффекта смерти",
   "COSMETIC/HACK_NO_DEATH_EFFECT/TIP": "Отключает визуальные эффекты смерти",
