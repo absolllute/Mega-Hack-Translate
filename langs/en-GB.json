@@ -624,6 +624,6 @@
   "REPLAY/END_LAYOUT/DELETE": "Delete",
   "REPLAY/GAMEPLAY": "Gameplay Options",
   "REPLAY/GAMEPLAY/ALLOW_RANDOMNESS": "Allow Randomness",
-  "REPLAY/CONVERT": "Convert (.json, .gdr)",
+  "REPLAY/CONVERT": "Convert (.json, .gdr, .gdr2)",
   "REPLAY/NONE": "No Replay Selected"
 }
