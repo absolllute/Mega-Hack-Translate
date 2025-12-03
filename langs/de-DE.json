@@ -13,7 +13,7 @@
   "NX/PICKER/INPUT": "Dateienname",
   "ERROR": "Fehler!",
   "ERROR/DISMISS": "Ignorieren",
-  "ERROR/HACKPRO/CONFLICTING_RULESET": "Regelsatzkonflikte mit aktivierten Regelsätzen",
+  "ERROR/HACKPRO/CONFLICTING_RULESET": "Regelsatz Konflikte mit aktivierten Regelsätzen",
   "ERROR/REPLAY/EMPTY_FILENAME": "",
   "ERROR/REPLAY/FILE_NOT_FOUND": "Datei nicht gefunden",
   "ERROR/REPLAY/NO_INPUTS": "",
