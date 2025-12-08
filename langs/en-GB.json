@@ -180,7 +180,7 @@
   "COSMETIC/HACK_NO_WAVE_TRAIL/TIP": "Disables the hard wave trail, standard trail remains",
   "COSMETIC/HACK_NO_WAVE_TRAIL_BEHIND": "No Wave Trail Behind",
   "COSMETIC/HACK_NO_WAVE_TRAIL_BEHIND/TIP": "Disables default player trail behind the wave trail",
-  "COSMETIC/HACK_PLAYER_ON_TOP": "Player on Top",
+  "COSMETIC/HACK_PLAYER_ON_TOP": "Player On Top",
   "COSMETIC/HACK_PLAYER_ON_TOP/TIP": "Forces the player (and wave trail) to appear above all objects",
   "COSMETIC/HACK_SHOW_TOTAL_ATTEMPTS": "Show Total Attempts",
   "COSMETIC/HACK_SHOW_TOTAL_ATTEMPTS/TIP": "Shows the total attempt count in-level instead of the session attempt count",
