@@ -97,6 +97,8 @@
   "COSMETIC/ACCURATE_PERCENTAGE/DECIMALS/3": "4 Decimals",
   "COSMETIC/HACK_BALL_ROTATION_BUG": "Error de Rotació de la Ball",
   "COSMETIC/HACK_BALL_ROTATION_BUG/TIP": "Recrea l'error del barrel-roll de la 2.0",
+  "COSMETIC/HACK_NO_CIRCLES": "",
+  "COSMETIC/HACK_NO_CIRCLES/TIP": "",
   "COSMETIC/HACK_CLASSIC_PARTICLES": "Partícules Clàssiques",
   "COSMETIC/HACK_CLASSIC_PARTICLES/TIP": "Restaura les partícules mini clàssiques que seguien el jugador",
   "COSMETIC/HACK_CLASSIC_PULSE": "Pulsació Clàssica",

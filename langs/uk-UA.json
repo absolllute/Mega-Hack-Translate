@@ -97,6 +97,8 @@
   "COSMETIC/ACCURATE_PERCENTAGE/DECIMALS/3": "Десятитисячні",
   "COSMETIC/HACK_BALL_ROTATION_BUG": "Баг оберту кулі",
   "COSMETIC/HACK_BALL_ROTATION_BUG/TIP": "Відтворює баг з обертом кулі (barrel-roll), який був у версії 2.0",
+  "COSMETIC/HACK_NO_CIRCLES": "",
+  "COSMETIC/HACK_NO_CIRCLES/TIP": "",
   "COSMETIC/HACK_CLASSIC_PARTICLES": "Класичні частинки",
   "COSMETIC/HACK_CLASSIC_PARTICLES/TIP": "Повертає в гру класичні частинки позаду гравця в мінірежимі",
   "COSMETIC/HACK_CLASSIC_PULSE": "Класична пульсація",

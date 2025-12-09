@@ -97,6 +97,8 @@
   "COSMETIC/ACCURATE_PERCENTAGE/DECIMALS/3": "4 Ondalık Basamak",
   "COSMETIC/HACK_BALL_ROTATION_BUG": "Ball Dönme Bug",
   "COSMETIC/HACK_BALL_ROTATION_BUG/TIP": "2.0'da olan dönme bugunu geri getirir",
+  "COSMETIC/HACK_NO_CIRCLES": "",
+  "COSMETIC/HACK_NO_CIRCLES/TIP": "",
   "COSMETIC/HACK_CLASSIC_PARTICLES": "Eski Partiküller",
   "COSMETIC/HACK_CLASSIC_PARTICLES/TIP": "Oyuncuyu takip eden eski partikülleri restore eder.",
   "COSMETIC/HACK_CLASSIC_PULSE": "Eski Nabız",
