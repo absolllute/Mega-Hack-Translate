@@ -73,7 +73,7 @@
   "LEVEL/JUMPSCARE/HACK_JUMPSCARE/TIP": "БУ! Испугался? Нет? Жаль :(",
   "LEVEL/HACK_AUTO_SONG_DOWNLOAD": "Автоскачивание музыки",
   "LEVEL/HACK_REPLAY_LAST_CHECKPOINT/TIP": "После прохождения игрок возрождается с последнего чекпоинта",
-  "LEVEL/HACK_SHOW_LAYOUT": "Показать лаяут",
+  "LEVEL/SHOW_LAYOUT/HACK_SHOW_LAYOUT": "Показать лаяут",
   "LEVEL/HACK_INSTANT_COMPLETE": "Мгновенное прохождение",
   "LEVEL/HACK_JUMP_HACK": "Джамп-хак",
   "LEVEL/NOCLIP/DROPDOWN/SAFE_MODE": "Сейв мод",
@@ -124,5 +124,5 @@
   "STATUS/*/POSITION/2": "Снизу слева",
   "STATUS/*/POSITION/3": "Снизу справа",
   "LEVEL/HACK_CBF": "CBF",
-  "LEVEL/HACK_CBF/TIP": "Включает Click Between Frames от Syzzi (Должен быть установлен!!11!1!1!!11!)",
+  "LEVEL/HACK_CBF/TIP": "Включает Click Between Frames от Syzzi"
 }
