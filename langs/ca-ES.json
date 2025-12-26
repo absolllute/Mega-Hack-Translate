@@ -39,6 +39,7 @@
   "ICONIC/GENERAL": "",
   "ICONIC/GLOW": "",
   "ICONIC/OVERRIDE": "",
+  "ICONIC/RAND": "",
   "ICONIC/VANILLA_PROGRESS_BAR": "",
   "ICONIC/WAVE": "",
   "ICONIC/PREVIEW/BASE_PARTICLES": "",
@@ -227,6 +228,9 @@
   "COSMETIC/HACK_STARTPOS_RESET_CAMERA/TIP": "Força el reinici de la càmera de cada StartPos",
   "COSMETIC/HACK_STOP_TRIGGERS_ON_DEATH": "Aturar Triggers en Morir",
   "COSMETIC/HACK_STOP_TRIGGERS_ON_DEATH/TIP": "Atura els triggers de moviment/rotació en morir perquè puguis veure què et va matar",
+  "COSMETIC/ICON_RANDOMISER/HACK_ICON_RANDOMISER": "",
+  "COSMETIC/ICON_RANDOMISER/DROPDOWN/ICONS": "",
+  "COSMETIC/ICON_RANDOMISER/DROPDOWN/COLOURS": "",
   "COSMETIC/TRAIL_CUTTING/HACK_TRAIL_CUTTING": "Tall del Deixant",
   "COSMETIC/TRAIL_CUTTING/HACK_TRAIL_CUTTING/TIP": "Recupera l'error del tall del deixant",
   "COSMETIC/TRAIL_CUTTING/DROPDOWN/RATE": "Taxa (x)",
@@ -719,4 +723,3 @@
   "REPLAY/CONVERT": "Convertir (.json, .gdr)",
   "REPLAY/NONE": "Cap Reproducció Seleccionada"
 }
-
