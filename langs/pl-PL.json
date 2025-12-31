@@ -677,6 +677,8 @@
   "STATUS/*/POSITION/1": "Prawy Górny Róg",
   "STATUS/*/POSITION/2": "Lewy Dolny Róg",
   "STATUS/*/POSITION/3": "Prawy Dolny Róg",
+  "STATUS/*/POSITION/4": "",
+  "STATUS/*/POSITION/5": "",
   "STATUS/*/MOVE/DOWN": "Dół",
   "STATUS/*/MOVE/UP": "Góra",
   "STATUS/*/PREFIX": "",

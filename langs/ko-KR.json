@@ -677,6 +677,8 @@
   "STATUS/*/POSITION/1": "우측 상단",
   "STATUS/*/POSITION/2": "좌측 하단",
   "STATUS/*/POSITION/3": "우측 하단",
+  "STATUS/*/POSITION/4": "",
+  "STATUS/*/POSITION/5": "",
   "STATUS/*/MOVE/DOWN": "아래로",
   "STATUS/*/MOVE/UP": "위로",
   "STATUS/*/PREFIX": "접두사 표시",

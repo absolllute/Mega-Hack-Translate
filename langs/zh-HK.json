@@ -677,6 +677,8 @@
   "STATUS/*/POSITION/1": "右上角",
   "STATUS/*/POSITION/2": "左下角",
   "STATUS/*/POSITION/3": "右下角",
+  "STATUS/*/POSITION/4": "",
+  "STATUS/*/POSITION/5": "",
   "STATUS/*/MOVE/DOWN": "下移",
   "STATUS/*/MOVE/UP": "上移",
   "STATUS/*/PREFIX": "",

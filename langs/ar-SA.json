@@ -677,6 +677,8 @@
   "STATUS/*/POSITION/1": "أعلى اليمين",
   "STATUS/*/POSITION/2": "أسفل اليسار",
   "STATUS/*/POSITION/3": "أسفل اليمين",
+  "STATUS/*/POSITION/4": "",
+  "STATUS/*/POSITION/5": "",
   "STATUS/*/MOVE/DOWN": "للأسفل",
   "STATUS/*/MOVE/UP": "للأعلى",
   "STATUS/*/PREFIX": "إظهار البادئة",

@@ -677,6 +677,8 @@
   "STATUS/*/POSITION/1": "Alto a destra",
   "STATUS/*/POSITION/2": "Basso a sinistra",
   "STATUS/*/POSITION/3": "Basso a destra",
+  "STATUS/*/POSITION/4": "",
+  "STATUS/*/POSITION/5": "",
   "STATUS/*/MOVE/DOWN": "Sotto",
   "STATUS/*/MOVE/UP": "Sopra",
   "STATUS/*/PREFIX": "",

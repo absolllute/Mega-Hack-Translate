@@ -677,6 +677,8 @@
   "STATUS/*/POSITION/1": "Supérieur Droit",
   "STATUS/*/POSITION/2": "Inférieur Gauche",
   "STATUS/*/POSITION/3": "Inférieur Droit",
+  "STATUS/*/POSITION/4": "",
+  "STATUS/*/POSITION/5": "",
   "STATUS/*/MOVE/DOWN": "Bas",
   "STATUS/*/MOVE/UP": "Haut",
   "STATUS/*/PREFIX": "Afficher Préfixe",

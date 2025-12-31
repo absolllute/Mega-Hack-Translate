@@ -677,6 +677,8 @@
   "STATUS/*/POSITION/1": "Superior-dreta",
   "STATUS/*/POSITION/2": "Inferior-esquerra",
   "STATUS/*/POSITION/3": "Inferior-dreta",
+  "STATUS/*/POSITION/4": "",
+  "STATUS/*/POSITION/5": "",
   "STATUS/*/MOVE/DOWN": "Avall",
   "STATUS/*/MOVE/UP": "Amunt",
   "STATUS/*/PREFIX": "Mostrar Prefix",

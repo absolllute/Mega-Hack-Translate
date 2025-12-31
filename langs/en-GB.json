@@ -677,6 +677,8 @@
   "STATUS/*/POSITION/1": "Top-right",
   "STATUS/*/POSITION/2": "Bottom-left",
   "STATUS/*/POSITION/3": "Bottom-right",
+  "STATUS/*/POSITION/4": "Top-centre",
+  "STATUS/*/POSITION/5": "Bottom-centre",
   "STATUS/*/MOVE/DOWN": "Down",
   "STATUS/*/MOVE/UP": "Up",
   "STATUS/*/PREFIX": "Show Prefix",

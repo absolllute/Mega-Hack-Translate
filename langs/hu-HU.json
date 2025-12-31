@@ -677,6 +677,8 @@
   "STATUS/*/POSITION/1": "Jobb fent",
   "STATUS/*/POSITION/2": "Bal lent",
   "STATUS/*/POSITION/3": "Jobb lent",
+  "STATUS/*/POSITION/4": "",
+  "STATUS/*/POSITION/5": "",
   "STATUS/*/MOVE/DOWN": "Le",
   "STATUS/*/MOVE/UP": "Fel",
   "STATUS/*/PREFIX": "",

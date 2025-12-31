@@ -677,6 +677,8 @@
   "STATUS/*/POSITION/1": "Справа зверху",
   "STATUS/*/POSITION/2": "Зліва знизу",
   "STATUS/*/POSITION/3": "Справа знизу",
+  "STATUS/*/POSITION/4": "",
+  "STATUS/*/POSITION/5": "",
   "STATUS/*/MOVE/DOWN": "Вниз",
   "STATUS/*/MOVE/UP": "Вгору",
   "STATUS/*/PREFIX": "",

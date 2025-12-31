@@ -677,6 +677,8 @@
   "STATUS/*/POSITION/1": "Sağ Üst",
   "STATUS/*/POSITION/2": "Sol Alt",
   "STATUS/*/POSITION/3": "Sağ Alt",
+  "STATUS/*/POSITION/4": "",
+  "STATUS/*/POSITION/5": "",
   "STATUS/*/MOVE/DOWN": "Aşağı",
   "STATUS/*/MOVE/UP": "Yukarı",
   "STATUS/*/PREFIX": "",

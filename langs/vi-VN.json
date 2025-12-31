@@ -677,6 +677,8 @@
   "STATUS/*/POSITION/1": "Trên bên phải",
   "STATUS/*/POSITION/2": "Dưới bên trái",
   "STATUS/*/POSITION/3": "Dưới bên phải",
+  "STATUS/*/POSITION/4": "",
+  "STATUS/*/POSITION/5": "",
   "STATUS/*/MOVE/DOWN": "Dưới",
   "STATUS/*/MOVE/UP": "Trên",
   "STATUS/*/PREFIX": "Tiền tố",
