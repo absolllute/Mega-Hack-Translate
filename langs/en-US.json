@@ -9,5 +9,7 @@
   "LEVEL/SHOW_HITBOXES/HACK_SHOW_HITBOXES/TIP": "Visualizes level hitboxes",
   "UNIVERSAL/CUSTOM_BG/HACK_CUSTOM_BG/TIP": "Customize the color of GD menus",
   "UNIVERSAL/TRANSITION_CUSTOMISER/HACK_TRANSITION_CUSTOMISER": "Transition Customizer",
-  "UNIVERSAL/TRANSITION_CUSTOMISER/HACK_TRANSITION_CUSTOMISER/TIP": "Customize the type and duration of scene transitions"
+  "UNIVERSAL/TRANSITION_CUSTOMISER/HACK_TRANSITION_CUSTOMISER/TIP": "Customize the type and duration of scene transitions",
+  "STATUS/*/POSITION/4": "Top-center",
+  "STATUS/*/POSITION/5": "Bottom-center"
 }
