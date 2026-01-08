@@ -463,6 +463,7 @@
   "LEVEL/SHOW_HITBOXES_TRAIL/DROPDOWN/MAX_DRAW": "Longitud del Dibuix",
   "LEVEL/SHOW_HITBOXES_TRAIL/DROPDOWN/MAX_DRAW/PRE": "Longitud del Dibuix",
   "LEVEL/SHOW_HITBOXES_TRAIL/DROPDOWN/MAX_DRAW/SUF": " fotogrames",
+  "LEVEL/SHOW_HITBOXES_TRAIL/DROPDOWN/REQUIRE_SHOW_HITBOXES": "",
   "LEVEL/SHOW_HITBOXES_TRAIL/DROPDOWN/UNCAPPED_EDITOR_LENGTH": "Longitud d'Editor Sense Límit",
   "LEVEL/SHOW_HITBOXES_TRAIL/HACK_SHOW_HITBOXES_TRAIL": "Mostrar Deixant de Hitboxes",
   "LEVEL/SHOW_HITBOXES_TRAIL/HACK_SHOW_HITBOXES_TRAIL/TIP": "Mostra un deixant de per on ha anat la hitbox del teu jugador durant un intent, es requereix Mostrar Hitboxes",

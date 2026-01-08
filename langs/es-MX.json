@@ -463,6 +463,7 @@
   "LEVEL/SHOW_HITBOXES_TRAIL/DROPDOWN/MAX_DRAW": "Longitud de Dibujado",
   "LEVEL/SHOW_HITBOXES_TRAIL/DROPDOWN/MAX_DRAW/PRE": "Longitud de Dibujado",
   "LEVEL/SHOW_HITBOXES_TRAIL/DROPDOWN/MAX_DRAW/SUF": " cuadros",
+  "LEVEL/SHOW_HITBOXES_TRAIL/DROPDOWN/REQUIRE_SHOW_HITBOXES": "",
   "LEVEL/SHOW_HITBOXES_TRAIL/DROPDOWN/UNCAPPED_EDITOR_LENGTH": "Longitud Del Editor Infinita",
   "LEVEL/SHOW_HITBOXES_TRAIL/HACK_SHOW_HITBOXES_TRAIL": "Mostrar Rastro de Hitboxes",
   "LEVEL/SHOW_HITBOXES_TRAIL/HACK_SHOW_HITBOXES_TRAIL/TIP": "Muestra un rastro del recorrido de la hitbox de tu jugador durante un intento; requiere tener las hitboxes activadas.",

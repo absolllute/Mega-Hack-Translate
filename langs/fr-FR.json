@@ -463,6 +463,7 @@
   "LEVEL/SHOW_HITBOXES_TRAIL/DROPDOWN/MAX_DRAW": "Longueur du tracé ",
   "LEVEL/SHOW_HITBOXES_TRAIL/DROPDOWN/MAX_DRAW/PRE": "Longueur du tracé ",
   "LEVEL/SHOW_HITBOXES_TRAIL/DROPDOWN/MAX_DRAW/SUF": " image(s)",
+  "LEVEL/SHOW_HITBOXES_TRAIL/DROPDOWN/REQUIRE_SHOW_HITBOXES": "",
   "LEVEL/SHOW_HITBOXES_TRAIL/DROPDOWN/UNCAPPED_EDITOR_LENGTH": "Longueur d'éditeur illimitée",
   "LEVEL/SHOW_HITBOXES_TRAIL/HACK_SHOW_HITBOXES_TRAIL": "Permet d'afficher la traînée des Hitboxes",
   "LEVEL/SHOW_HITBOXES_TRAIL/HACK_SHOW_HITBOXES_TRAIL/TIP": "Montre une traînée de la position des Hitboxes pendant une tentative, nécessite d'afficher les hitboxes",
