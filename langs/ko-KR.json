@@ -509,7 +509,7 @@
   "UNIVERSAL/HACK_MAIN_MENU_PLAY": "메인 메뉴 플레이",
   "UNIVERSAL/HACK_MAIN_MENU_PLAY/TIP": "메인 메뉴에서 게임플레이를 제어할 수 있습니다",
   "UNIVERSAL/HACK_NO_AUDIO_FADE_OUT": "오디오 페이드 아웃 비활성화",
-  "UNIVERSAL/HACK_NO_AUDIO_FADE_OUT/TIP": "음악의 페이드 아웃을 비활성화합니다 By Beat",
+  "UNIVERSAL/HACK_NO_AUDIO_FADE_OUT/TIP": "음악의 페이드 아웃을 비활성화합니다. By Beat",
   "UNIVERSAL/HACK_NO_TRANSITION": "전환 비활성화",
   "UNIVERSAL/HACK_NO_TRANSITION/TIP": "장면 전환 시간을 0초로 단축합니다",
   "UNIVERSAL/HACK_TRANSPARENT_LISTS": "투명 리스트",
