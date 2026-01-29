@@ -252,7 +252,7 @@
   "CREATOR/HACK_DEFAULT_SONG_BYPASS": "기본 음악 우회",
   "CREATOR/HACK_DEFAULT_SONG_BYPASS/TIP": "에디터에서 숨겨진 기본 음악을 사용할 수 있습니다",
   "CREATOR/HACK_EDITOR_EXTENSION": "에디터 확장",
-  "CREATOR/HACK_EDITOR_EXTENSION/TIP": "편집의 길이를 128배 늘립니다",
+  "CREATOR/HACK_EDITOR_EXTENSION/TIP": "에디터의 길이를 128배 늘립니다",
   "CREATOR/HACK_FREE_SCROLL": "자유 스크롤",
   "CREATOR/HACK_FREE_SCROLL/TIP": "에디터 밖으로 스크롤할 수 있습니다",
   "CREATOR/HACK_HIDE_UI": "UI 숨기기",
