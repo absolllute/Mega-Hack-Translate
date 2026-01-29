@@ -353,7 +353,7 @@
   "LEVEL/HACK_CHECKPOINT_LIMIT_BYPASS": "체크포인트 제한 우회",
   "LEVEL/HACK_CHECKPOINT_LIMIT_BYPASS/TIP": "50개의 체크포인트 제한을 우회합니다",
   "LEVEL/HACK_COLLECT_COINS_IN_PRACTICE": "연습 모드에서 코인 획득",
-  "LEVEL/HACK_COLLECT_COINS_IN_PRACTICE/TIP": "연습 모드에서 시크릿 코인과 유저 코인을 획득할 수 있습니다 Made by WEGFan",
+  "LEVEL/HACK_COLLECT_COINS_IN_PRACTICE/TIP": "연습 모드에서 시크릿 코인과 유저 코인을 획득할 수 있습니다, Made by WEGFan",
   "LEVEL/HACK_CONFIRM_EXIT": "종료 확인",
   "LEVEL/HACK_CONFIRM_EXIT/TIP": "레벨을 종료하기 전에 확인을 요구합니다",
   "LEVEL/HACK_CONFIRM_FULL_RESET": "전체 초기화 확인",
