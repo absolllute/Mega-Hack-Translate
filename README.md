@@ -1,6 +1,6 @@
 # Mega Hack Translation Project
 
-This project aims to provide accurate translations for Mega Hack in languages other than British English. The first translations will be available in Mega Hack v8.1.0 which is in active development.
+This project aims to provide accurate translations for Mega Hack in languages other than British English. Translations are available in Mega Hack v9 and onwards.
 
 ## Contributing
 

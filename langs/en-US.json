@@ -3,11 +3,15 @@
   "NX/COLOUR/DROPDOWN/INPUT": "Hex Color",
   "NX/COLOUR/INPUT": "Hex Color",
   "NX/COLOUR/RESET": "Reset Color",
+  "ICONIC/RAND": "Randomizer",
   "BYPASS/HACK_MUSIC_UNLOCKER": "Music Customizer",
+  "COSMETIC/ICON_RANDOMISER/HACK_ICON_RANDOMISER": "Icon Randomizer",
   "LEVEL/SHOW_HITBOXES_ON_DEATH/HACK_SHOW_HITBOXES_ON_DEATH/TIP": "Visualizes level hitboxes, only on death",
-  "LEVEL/HACK_SHOW_LAYOUT/TIP": "Removes all decoration and color from levels",
+  "LEVEL/SHOW_LAYOUT/HACK_SHOW_LAYOUT/TIP": "Removes all decoration and color from levels",
   "LEVEL/SHOW_HITBOXES/HACK_SHOW_HITBOXES/TIP": "Visualizes level hitboxes",
   "UNIVERSAL/CUSTOM_BG/HACK_CUSTOM_BG/TIP": "Customize the color of GD menus",
   "UNIVERSAL/TRANSITION_CUSTOMISER/HACK_TRANSITION_CUSTOMISER": "Transition Customizer",
-  "UNIVERSAL/TRANSITION_CUSTOMISER/HACK_TRANSITION_CUSTOMISER/TIP": "Customize the type and duration of scene transitions"
+  "UNIVERSAL/TRANSITION_CUSTOMISER/HACK_TRANSITION_CUSTOMISER/TIP": "Customize the type and duration of scene transitions",
+  "STATUS/*/POSITION/4": "Top-center",
+  "STATUS/*/POSITION/5": "Bottom-center"
 }
