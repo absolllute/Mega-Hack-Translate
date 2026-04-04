@@ -101,7 +101,7 @@
   "LEVEL/HACK_CBF_GMVAR_COS": "Click On Steps",
   "LEVEL/CBF/HACK_CBF": "Click Between Frames",
   "LEVEL/HACK_CBF": "Click Between Frames",
-  "LEVEL/HACK_CBF/TIP": "Включает Click Between Frames от Syzzi (Должен быть установлен!!11!1!1!!11!)"
+  "LEVEL/HACK_CBF/TIP": "Включает Click Between Frames от Syzzi (Должен быть установлен!!11!1!1!!11!)",
   "LEVEL/HACK_REPLAY_LAST_CHECKPOINT/TIP": "После прохождения игрок возрождается с последнего чекпоинта",
   "LEVEL/HACK_SHOW_LAYOUT": "Показать лаяут",
   "LEVEL/HACK_INSTANT_COMPLETE": "Мгновенное прохождение",
@@ -159,5 +159,5 @@
   "STATUS/*/POSITION/0": "Сверху слева",
   "STATUS/*/POSITION/1": "Сверху справа",
   "STATUS/*/POSITION/2": "Снизу слева",
-  "STATUS/*/POSITION/3": "Снизу справа",
+  "STATUS/*/POSITION/3": "Снизу справа"
 }
