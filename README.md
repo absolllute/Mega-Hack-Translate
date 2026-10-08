@@ -20,7 +20,7 @@ The [LIVE.json](/langs/LIVE.json) file contains global definitions, anything in 
 
 Translations should not always be literal and instead should match common terms used by the community already. For example, do not translate "wave" if "wave" is the commonly spoken term in your language.
 
-Titles for hacks and options should be kept as short as possible so that they fit in the interface. For Latin-based languages, 20 characters is a good estimate. However, this depends on character sizes so it isn't a strict guideline.
+Titles for hacks and options should be kept as short as possible so that they fit within interface elements without truncation. For Latin-based languages, 20 characters is a good estimate. However, this depends on character sizes so it isn't a strict guideline.
 
 Languages with similar dialect can use a seperate language as a base, for example [en-US.json](/langs/en-US.json)'s base is [en-GB.json](/langs/en-GB.json). If a language has a base, it is marked at the top of its JSON file under the `__BASE__` key. Please use this to reduce redundant translations and only define a translation in a derived language if it is going to be different from its base's translation.
 
@@ -29,11 +29,11 @@ Languages with similar dialect can use a seperate language as a base, for exampl
 - Language used should be formal.
 - Titles should be capitalised.
 - Full-stops (periods) should be avoided at the end of sentences, other punctuation (?, !, ...) is fine.
-- Avoid trailing colons (":", ": "), spacing should not be dictated by the language JSON
+- Avoid trailing colons and whitespace (":", ": ", " ") interface spacing should not be dictated by the language JSON
 
 ## Reserved Tags
 
-Any tags ending in `/PRE` or `/SUF` are prefixes or suffixes to input boxes respectively. Prefixes should include spaces after their colons, for where user input begins. Parent tags do not need this space as this is the placeholder text, shown when the input box is empty.
+Any tags ending in `/PRE` or `/SUF` are respectively prefixes or suffixes to input boxes. Prefixes should not include spacing at the end of strings, this will be added at runtime (if appropriate) by the select interface.
 
 ```
 {
