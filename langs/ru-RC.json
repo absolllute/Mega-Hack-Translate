@@ -18,7 +18,7 @@
   "HOME/MISC/LOAD_LEGACY_SAVE": "Импортировать сохранение из v8",
   "HOME/RULESETS": "Рулсеты",
   "HOME/DOT": "Индикатор-точка",
-  "KEYBINDS/DISABLE_IN_EDITOR/TIP": "Отключает горячие клавиши Mega Hack внутри редактора",
+  "KEYBINDS/HACK_DISABLE_IN_EDITOR/TIP": "Отключает горячие клавиши Mega Hack внутри редактора",
   "BYPASS": "Байпассы",
   "BYPASS/HACK_CHALLENGE": "The Challenge",
   "BYPASS/HACK_SLIDER_LIMIT": "Лимит слайдеров",
